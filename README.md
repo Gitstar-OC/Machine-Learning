@@ -27,6 +27,6 @@ Description of question
 
 
 ## Unsupervised Machine Learning
-- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UupervisedLearning1.md)
-- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UupervisedLearning2.md)
+- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
+- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
 
