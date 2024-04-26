@@ -20,10 +20,13 @@ Description of question
 - `B` [What is machine learning](MachineLearning.md)
 
 ## Superwised Machine Learning
-- `B` [Supervised Machine Learning](Supervised%20Learning/SupervisedLearning1.md)
+- `B` [Supervised Machine Learning Part 1](Supervised%20Learning/SupervisedLearning1.md)
+- `B` [Supervised Machine Learning Part 2](Supervised%20Learning/SupervisedLearning2.md)
 
 ## Advanced Learning Algotrithms
 
 
 ## Unsupervised Machine Learning
+- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UupervisedLearning1.md)
+- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UupervisedLearning2.md)
 
