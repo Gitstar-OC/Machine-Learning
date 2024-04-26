@@ -10,6 +10,10 @@ Description of question
 
 - Give this repository a ⭐ if you like it!
 
+
+> I have added `B` for Beginner and `I` for intermediate level
+
+
 ### Start with the basics
 - [Overview of Machine Learning](Overview.md)
 - [Applications of Machine Learning](Applications.md)
