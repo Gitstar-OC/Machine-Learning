@@ -8,8 +8,6 @@ Description of question
 - Option B
 >  Answer: Solution will be given here, with some explaination in below lines
 
-- Give this repository a ⭐ if you like it!
-
 
 >  `B` for Beginner and `I` for intermediate level
 
@@ -30,3 +28,7 @@ Description of question
 - `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
 - `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
 
+
+
+ <!--- Welldone Champ--->
+ # Give it a ⭐ if you liked this!
