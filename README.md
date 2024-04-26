@@ -13,9 +13,9 @@ Description of question
 
 
 ### Start with the basics
-- `B` [Overview of Machine Learning](Overview.md) 
-- `B` [Applications of Machine Learning](Applications.md)
-- `B` [What is machine learning](MachineLearning.md)
+- `B` [Overview of Machine Learning](Basics/Overview.md) 
+- `B` [Applications of Machine Learning](Basics/Applications.md)
+- `B` [What is machine learning](Basics/MachineLearning.md)
 
 ## Superwised Machine Learning
 - `B` [Supervised Machine Learning Part 1](Supervised%20Learning/SupervisedLearning1.md)
