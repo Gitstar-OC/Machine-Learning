@@ -20,7 +20,7 @@ Description of question
 - `B` [What is machine learning](MachineLearning.md)
 
 ## Superwised Machine Learning
-- 
+- `B` [Supervised Machine Learning](SupervisedLearning1.md)
 
 ## Advanced Learning Algotrithms
 
