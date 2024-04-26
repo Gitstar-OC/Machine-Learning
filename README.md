@@ -15,9 +15,9 @@ Description of question
 
 
 ### Start with the basics
-- [Overview of Machine Learning](Overview.md)
-- [Applications of Machine Learning](Applications.md)
-- [What is machine learning](MachineLearning.md)
+- `B` [Overview of Machine Learning](Overview.md) 
+- `B` [Applications of Machine Learning](Applications.md)
+- `B` [What is machine learning](MachineLearning.md)
 
 ## Superwised Machine Learning
 - 
