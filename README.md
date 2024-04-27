@@ -23,6 +23,13 @@ Description of question
 - `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
 - `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
 
+### Jupyter Notebooks
+- Jupyter notebook is a type of `IDE` in machine learning which provides to many options to the developers to create and run the code. Check the below file to get started! 
+> **Note:** You should first clone the project and open it in your IDE or in jupyter notebook to understand it in depth. 
+### [Jupyter Notebook](Jupyter%20Notebooks/JupyterNotebook.md)
+
+- `B` [JupyterNotebook](Jupyter%20Notebooks/IntroductiontoJupyterNotebook.ipynb) (**Clone and Open it in your IDE**)
+
 
 ## Superwised Machine Learning
 
