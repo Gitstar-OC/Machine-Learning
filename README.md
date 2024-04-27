@@ -17,16 +17,21 @@ Description of question
 - `B` [Applications of Machine Learning](Basics/Applications.md)
 - `B` [What is machine learning](Basics/MachineLearning.md)
 
-## Superwised Machine Learning
+### Difference between supervised and unsupervised machine learning
 - `B` [Supervised Machine Learning Part 1](Supervised%20Learning/SupervisedLearning1.md)
 - `B` [Supervised Machine Learning Part 2](Supervised%20Learning/SupervisedLearning2.md)
+- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
+- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
+
+
+## Superwised Machine Learning
+
 
 ## Advanced Learning Algotrithms
 
 
 ## Unsupervised Machine Learning
-- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
-- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
+
 
 
 
