@@ -32,6 +32,13 @@ Description of question
 
 
 ## Superwised Machine Learning
+- Regression Model
+  - [Linear Regression Part 1]()
+  - [Linear Regression Part 2]()
+  - [Cost Function Formula]()
+  - [Cost Function Intuition]()
+  - [Visualizing the cost function]()
+  - [Visualization Examples]()
 
 
 ## Advanced Learning Algotrithms
