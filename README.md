@@ -34,7 +34,7 @@ Description of question
 ## Superwised Machine Learning
 - Regression Model
   - [Linear Regression Part 1](Supervised%20Learning/Regression%20Model/LinearRegressionP1.md)
-  - [Linear Regression Part 2]()
+  - [Linear Regression Part 2](Supervised%20Learning/Regression%20Model/LinearRegressionP2.md)
   - [Cost Function Formula]()
   - [Cost Function Intuition]()
   - [Visualizing the cost function]()
