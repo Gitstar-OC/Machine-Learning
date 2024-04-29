@@ -33,7 +33,7 @@ Description of question
 
 ## Superwised Machine Learning
 - Regression Model
-  - [Linear Regression Part 1]()
+  - [Linear Regression Part 1](Supervies%20Learning/Regression%20Model/LinearRegressionP1.md)
   - [Linear Regression Part 2]()
   - [Cost Function Formula]()
   - [Cost Function Intuition]()
