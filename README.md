@@ -9,7 +9,7 @@ Description of question
 >  Answer: Solution will be given here, with some explaination in below lines
 
 
->  `B` for Beginner and `I` for intermediate level
+>  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
 
 
 ### Start with the basics
