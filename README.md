@@ -39,7 +39,7 @@ Description of question
   - `B` [Cost Function Formula](Supervised%20Learning/Regression%20Model/CostFunctionFormula.md)
   - `B` [Cost Function Intuition](Supervised%20Learning/Regression%20Model/CostFunctionIntuition.md)
   - `B` [Visualizing the cost function](Supervised%20Learning/Regression%20Model/VisualizingCostFunction.md)
-  -  [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
+  - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
 
 
 ## Advanced Learning Algotrithms
