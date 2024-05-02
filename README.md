@@ -36,10 +36,10 @@ Description of question
   - `B` [Linear Regression Part 1](Supervised%20Learning/Regression%20Model/LinearRegressionP1.md)
   - `B` [Linear Regression Part 2](Supervised%20Learning/Regression%20Model/LinearRegressionP2.md)
   - `B` [Linear Regression Model Representation](Jupyter%20Notebooks/ModelRepresentation.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook**)
-  - [Cost Function Formula]()
-  - [Cost Function Intuition]()
-  - [Visualizing the cost function]()
-  - [Visualization Examples]()
+  - `B` [Cost Function Formula]()
+  - `B` [Cost Function Intuition]()
+  - `B` [Visualizing the cost function]()
+  -  [Visualization Examples]()
 
 
 ## Advanced Learning Algotrithms
