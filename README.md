@@ -32,7 +32,7 @@ Description of question
 
 
 ## Superwised Machine Learning
-- Regression Model
+- ### Regression Model
   - `B` [Linear Regression Part 1](Supervised%20Learning/Regression%20Model/LinearRegressionP1.md)
   - `B` [Linear Regression Part 2](Supervised%20Learning/Regression%20Model/LinearRegressionP2.md)
   - `B` [Linear Regression Model Representation](Jupyter%20Notebooks/ModelRepresentation.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook**)
@@ -42,7 +42,7 @@ Description of question
   - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
   - `I` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
-- Training Model with Gradient Descent 
+- ### Training Model with Gradient Descent 
 
 
 ## Advanced Learning Algotrithms
