@@ -43,7 +43,7 @@ Description of question
   - `I` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
 - ### Training Model with Gradient Descent 
-  - `B` [GradientDescent.md]()
+  - `B` [GradientDescent.md](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
   - [ImplementGradientDescent.md]()
   - [GradientDescentIntuition.md]()
   - [LearningRate.md]()
