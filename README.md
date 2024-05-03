@@ -42,6 +42,9 @@ Description of question
   - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
   - `I` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
+- Training Model with Gradient Descent 
+
+
 ## Advanced Learning Algotrithms
 
 
