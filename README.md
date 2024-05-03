@@ -40,7 +40,7 @@ Description of question
   - `B` [Cost Function Intuition](Supervised%20Learning/Regression%20Model/CostFunctionIntuition.md)
   - `B` [Visualizing the cost function](Supervised%20Learning/Regression%20Model/VisualizingCostFunction.md)
   - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
-
+  - `I` [Cost Function Model Representation](Jupyter%20Notebooks/) (**Open it in your IDE like VS Code or Jupyter Notebook**)
 
 ## Advanced Learning Algotrithms
 
