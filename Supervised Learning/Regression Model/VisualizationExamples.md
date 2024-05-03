@@ -41,7 +41,7 @@ The sum of squared errors for all of these data points is pretty close to the mi
 
 In the notebook that follows, you'll get to `run some codes` and `remember all the code is given`, `so you just need to hit Shift Enter to run it` and `take a look at it` and the notebook will show you how the cost function is implemented in code. 
 
-Given a small training set and different choices for the parameters, you'll be able to see how the cost varies depending on how well the model fits the data. In the notebook, you also can play with in interactive console plot. [Check this notebook]() You can use your mouse cursor to click anywhere on the contour plot and you will see the straight line defined by the values you chose for the parameters w and b. 
+Given a small training set and different choices for the parameters, you'll be able to see how the cost varies depending on how well the model fits the data. In the notebook, you also can play with in interactive console plot. [Check this notebook](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) You can use your mouse cursor to click anywhere on the contour plot and you will see the straight line defined by the values you chose for the parameters w and b. 
 
 You'll see a dot up here also on the 3D surface plot showing the cost. 
 
