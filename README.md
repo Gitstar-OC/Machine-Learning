@@ -44,10 +44,10 @@ Description of question
 
 - ### Training Model with Gradient Descent 
   - `B` [GradientDescent.md]()
-  - [GradientDescentIntuition.md]()
-  - [GradientDescentLinearRegression.md]()
   - [ImplementGradientDescent.md]()
+  - [GradientDescentIntuition.md]()
   - [LearningRate.md]()
+  - [GradientDescentLinearRegression.md]()
   - [RunningGradientDescent.md]()
 
 ## Advanced Learning Algotrithms
