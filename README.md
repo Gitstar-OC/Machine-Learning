@@ -97,6 +97,7 @@ Description of question
 
 
 - ### Gradient Descent for Logistic Regression 
+  - [Gradient Descent Implementation]() 
 
 
 - ### The Problem of Overfitting 
