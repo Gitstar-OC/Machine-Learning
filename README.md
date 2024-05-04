@@ -108,7 +108,7 @@ Description of question
 
 --- 
 
-## Advanced Learning Algotrithms
+## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
 - ### Neural Network Model
