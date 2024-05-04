@@ -66,7 +66,6 @@ Description of question
   - [Gradient Descent for Multiple Linear Regression]() 
   - `IN` [Multiple Linear Regression]()
 
-<!--
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
@@ -109,7 +108,7 @@ Description of question
 
 --- 
 
-## Advanced Learning Algotrithms
+## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
 - ### Neural Network Model
@@ -216,7 +215,7 @@ Description of question
   - [Random Forest Algorithm]() 
   - [XGBoost]() 
   - [When to Use Decision Trees]()
-  - `N` [Tree Ensebles]
+  - `N` [Tree Ensebles]()
 
 --- 
 
