@@ -266,7 +266,11 @@ Description of question
   - [Review of Key Concepts]() 
 
 - ### State - Action Value Function 
-  - [
+  - [State-action Value Function Definition]() 
+  - [State-action Value Function Example]() 
+  - [Bellman Equation]() 
+  - [Random (stochastic) Environment]() (Optional) 
+  
 
 - ### Continuous State Spaces 
   - [
