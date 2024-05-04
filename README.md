@@ -235,13 +235,19 @@ Description of question
   - [Choosing What Features to Use]() 
 
 - ### Collaborative Filtering 
+  - [Making Recommendations]() 
+  - [Using Per-Item Features]() 
+  - [Collaborative Filtering Algorithm]() 
+  - [Binary Labels: Favs, Likes and clicks]() 
 
 - ### Recommender Systems Implementation Detail 
+  - [
 
 - ### Content - Based Filtering 
+  - [
 
 - ### Principal Componenet Analysis 
-
+  - [
 
 
 
