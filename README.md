@@ -119,6 +119,7 @@ Description of question
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?]() 
 
+- ### Vectorization (Optional) 
 
 
 ## Unsupervised Machine Learning
