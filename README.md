@@ -268,6 +268,7 @@ Description of question
 - ### State - Action Value Function 
   - [State-action Value Function Definition]() 
   - [State-action Value Function Example]() 
+  - `N` [State-action Value Function]() 
   - [Bellman Equation]() 
   - [Random (stochastic) Environment]() (Optional) 
   
