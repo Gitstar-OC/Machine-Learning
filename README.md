@@ -82,8 +82,11 @@ Description of question
 
 - ### Classification with Logistic Regression
   - [Motivations]() 
-  - [Logistic Regression]() 
-  = [Decision Boundary]() 
+  - `N` [Classification]()
+  - [Logistic Regression]()
+  - `N` [Sigmoid Function and Logistic Regression]() 
+  - [Decision Boundary]() 
+  - `N` [Decision Boundary]() 
 
 
 - ### Cost Function for Logistic Regression 
