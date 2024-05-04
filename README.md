@@ -180,6 +180,7 @@ Description of question
   - [Learning Curves]()
   - [Deciding what to try next revisited]() 
   - [Bias / Variance and Neural Networks]() 
+  - `N` [Diagnosing Bias and Variance]() 
 
 - ### Machine Learning Development Process 
   - [
