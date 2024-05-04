@@ -106,6 +106,8 @@ Description of question
   - [Regularized Logistic Regression]()
   - `N` [Regularization]()
 
+--- 
+
 ## Advanced Learning Algotrithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
@@ -214,6 +216,8 @@ Description of question
   - [XGBoost]() 
   - [When to Use Decision Trees]()
   - `N` [Tree Ensebles]
+
+--- 
 
 ## Unsupervised Machine Learning, Recommender Systems, Reinforcement Learning
 - [Unsupervised Machine Learning]() (For => What you will learn in this part)
