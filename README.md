@@ -117,6 +117,10 @@ Description of question
   - `N` [Neurons and Layers]() 
   
 - ### TensorFlow Implementation
+  - [Inference in Code]() 
+  - [Data in TensorFlow]() 
+  - [Building a Neural Network]()
+  
 
 - ### Neural Network Implementation in Python 
 
