@@ -164,7 +164,8 @@ Description of question
   - [What is a derivative?]() (Optional)
   - [Computation Graph]() (Optional)
   - [Larger Neural Network Example]() (Optional)
-
+  - `N` [Derivatives]() (Optional)
+  - `N` [Back Propogation]() (Optional) 
 
 
 
