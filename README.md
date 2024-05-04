@@ -171,6 +171,7 @@ Description of question
   - [Deciding What to try next]() 
   - [Evaluating a Model]() 
   - [Model Selection and Training / Cross Validatiion / Test Sets]() 
+  - `N` [Model Evaluation and Selection]() 
 
 - ### Bias and Variance 
   - [
