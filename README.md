@@ -101,9 +101,11 @@ Description of question
 - ### The Problem of Overfitting 
   - [The Problem of Overfitting]() 
   - [Addressing Overfiting]() 
+  - `N` [Overfitting]() 
   - [Cost Function with Regularization]() 
   - [Regularized Linear Regression]() 
-  - [Regularized Logistic Regression]() 
+  - [Regularized Logistic Regression]()
+  - `N` [Regularization]()
 
 ## Advanced Learning Algotrithms
 
