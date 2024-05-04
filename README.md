@@ -155,6 +155,8 @@ Description of question
   - [Neural Network with Softmax output]() 
   - [Improved Implementation of Softmax]() 
   - [Classification with Multiple Outputs]() (Optional)
+  - `N` [Softmax]() 
+  - `N` [Multiclass]() 
 
 - ### Additional Neural Network Concepts
   - [
