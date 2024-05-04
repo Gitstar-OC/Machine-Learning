@@ -79,6 +79,18 @@ Description of question
   - `N` [Linear Regression with scikit-learn]()
 - `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
 
+- ### Classification with Logistic Regression
+
+
+- ### Cost Function for Logistic Regression 
+
+
+- ### Gradient Descent for Logistic Regression 
+
+
+- ### The Problem of Overfitting 
+
+
 ## Advanced Learning Algotrithms
 
 
