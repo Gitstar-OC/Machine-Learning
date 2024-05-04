@@ -234,6 +234,15 @@ Description of question
   - [Developing and Evaluating an Anomaly Detection System]() 
   - [Choosing What Features to Use]() 
 
+- ### Collaborative Filtering 
+
+- ### Recommender Systems Implementation Detail 
+
+- ### Content - Based Filtering 
+
+- ### Principal Componenet Analysis 
+
+
 
 
  <!--- Welldone Champ--->
