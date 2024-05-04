@@ -49,6 +49,7 @@ Description of question
   - [LearningRate.md]()
   - [GradientDescentLinearRegression.md]()
   - [RunningGradientDescent.md]()
+  - `I` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
 ## Advanced Learning Algotrithms
 
