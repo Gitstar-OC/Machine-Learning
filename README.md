@@ -134,6 +134,10 @@ Description of question
   - [Is there a path to AGI?]() 
 
 - ### Vectorization (Optional) 
+  - [How Neural Network are Implemented Effciently]() 
+  - [Matrix Multiplication]() 
+  - [Matrix Multiplication Rules]() 
+  - [Matrix Multiplication Code]() 
 
 
 ## Unsupervised Machine Learning
