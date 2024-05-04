@@ -29,19 +29,19 @@ Description of question
 > **Note:** You should first clone the project and open it in your IDE or in jupyter notebook to understand it in depth. 
 ### [Jupyter Notebook](Jupyter%20Notebooks/JupyterNotebook.md)
 
-- `B` [JupyterNotebook](Jupyter%20Notebooks/IntroductiontoJupyterNotebook.ipynb) (**Clone and Open it in your IDE**)
+- `N` [JupyterNotebook](Jupyter%20Notebooks/IntroductiontoJupyterNotebook.ipynb) (**Clone and Open it in your IDE**)
 
 
 ## Superwised Machine Learning
 - ### Regression Model
   - `B` [Linear Regression Part 1](Supervised%20Learning/Regression%20Model/LinearRegressionP1.md)
   - `B` [Linear Regression Part 2](Supervised%20Learning/Regression%20Model/LinearRegressionP2.md)
-  - `B` [Linear Regression Model Representation](Jupyter%20Notebooks/ModelRepresentation.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook**)
+  - `BN` [Linear Regression Model Representation](Jupyter%20Notebooks/ModelRepresentation.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook**)
   - `B` [Cost Function Formula](Supervised%20Learning/Regression%20Model/CostFunctionFormula.md)
   - `B` [Cost Function Intuition](Supervised%20Learning/Regression%20Model/CostFunctionIntuition.md)
   - `B` [Visualizing the cost function](Supervised%20Learning/Regression%20Model/VisualizingCostFunction.md)
   - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
-  - `I` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+  - `IN` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ### Training Model with Gradient Descent 
   - `B` [Gradient Descent](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
@@ -50,7 +50,7 @@ Description of question
   - `B` [Learning Rate](Supervised%20Learning/Gradient%20Descent/LearningRate.md)
   - `B` [Gradient Descent with Linear Regression ](Supervised%20Learning/Gradient%20Descent/GradientDescentLinearRegression.md)
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
-  - `I` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+  - `IN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ###  Multiple Linear Regression
   - [Multiple Features]()
