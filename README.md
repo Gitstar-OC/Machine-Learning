@@ -144,13 +144,19 @@ Description of question
   - [Training Details]() 
 
 - ### Activation Functions 
+  - [Alternatives to the Sigmoid Activation]() 
+  - [Choosing Activation Functions]()
+  - [Why do we need Activation Functions]() 
+
 
 - ### Multiclass Classification 
+  - [
 
 - ### Additional Neural Network Concepts
+  - [
 
 - ### Back Propogation (Optional) 
-
+  - [
 
 
 
