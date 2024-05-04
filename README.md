@@ -90,6 +90,8 @@ Description of question
 
 
 - ### Cost Function for Logistic Regression 
+  - [Cost Function for Logistic Regression]() 
+  - [Simplified Cost Function for Logistic Regression]() 
 
 
 - ### Gradient Descent for Logistic Regression 
