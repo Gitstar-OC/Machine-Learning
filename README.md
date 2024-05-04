@@ -57,7 +57,7 @@ Description of question
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
   - `IN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-
+<!-- 
 - ###  Multiple Linear Regression
   - [Multiple Features]()
   - [Vectorization Part 1]()
