@@ -1,4 +1,4 @@
-# Machine-Learning-Specialization 
+# Machine-Learning-Specialization ( In Progress...)
 - ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this course a try 😄👍. 
 - ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
 - ### I also have occasionally added questions like taught in classes  to help make sure you understand the content like this 🙂
@@ -43,7 +43,7 @@ Description of question
   - `I` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
 - ### Training Model with Gradient Descent 
-  - `B` [GradientDescent.md]()
+  - `B` [GradientDescent.md](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
   - [ImplementGradientDescent.md]()
   - [GradientDescentIntuition.md]()
   - [LearningRate.md]()
