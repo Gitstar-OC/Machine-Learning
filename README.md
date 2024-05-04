@@ -72,6 +72,7 @@ Description of question
   - [Checking Gradient Descent for Convergence]() 
   - [Choosing the Learning Rate]()
   - [Feature Engineering]()
+  - [Polynomial Regression]() 
 
 
 ## Advanced Learning Algotrithms
