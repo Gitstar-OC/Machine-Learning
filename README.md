@@ -79,7 +79,6 @@ Description of question
   - `N` [Linear Regression with scikit-learn]()
 - `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
 
-
 - ### Classification with Logistic Regression
   - [Motivations]() 
   - `N` [Classification]()
@@ -88,13 +87,11 @@ Description of question
   - [Decision Boundary]() 
   - `N` [Decision Boundary]() 
 
-
 - ### Cost Function for Logistic Regression 
   - [Cost Function for Logistic Regression]() 
   - `N` [Logistic Loss]() 
   - [Simplified Cost Function for Logistic Regression]() 
   - `N` [Cost Function for Logistic Regression]() 
-
 
 - ### Gradient Descent for Logistic Regression 
   - [Gradient Descent Implementation]() 
@@ -102,7 +99,11 @@ Description of question
   - `N` [Logistic Regression with Scikit-Learn]() 
 
 - ### The Problem of Overfitting 
-
+  - [The Problem of Overfitting]() 
+  - [Addressing Overfiting]() 
+  - [Cost Function with Regularization]() 
+  - [Regularized Linear Regression]() 
+  - [Regularized Logistic Regression]() 
 
 ## Advanced Learning Algotrithms
 
