@@ -274,8 +274,13 @@ Description of question
   
 
 - ### Continuous State Spaces 
-  - [
-  
+  - [Example of Continuous State Space Applications]()
+  - [Lunar Lander]() 
+  - [Learning the State-value Function]() 
+  - [Algorithm Refinement: Improved Neural Network Architecture]()
+  - [Algorithm Refinement: E- Greedy Policy]() 
+  - [Algorithm Refinement: Mini-Batch and Soft Updates]() (Optional)
+  - [The State of Reinforcement Learning]() 
 
 
  <!--- Welldone Champ--->
