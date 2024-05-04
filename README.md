@@ -205,6 +205,7 @@ Description of question
   - [Using One-hot Encoding of Categorial Features]() 
   - [Continuous Valued Features]() 
   - [Regression Trees]() (Optional) 
+  - `N` [Decision Trees]() 
 
   
 - ### Tree Ensembles 
