@@ -25,8 +25,8 @@ Description of question
 ### Difference between supervised and unsupervised machine learning
 - `B` [Supervised Machine Learning Part 1](Supervised%20Learning/SupervisedLearning1.md)
 - `B` [Supervised Machine Learning Part 2](Supervised%20Learning/SupervisedLearning2.md)
-- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
-- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
+- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Machine%20Learning/UnsupervisedLearning1.md)
+- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Machine%20Learning/UnsupervisedLearning2.md)
 
 ### Jupyter Notebooks
 - Jupyter notebook is a type of `IDE` in machine learning which provides to many options to the developers to create and run the code. Check the below file to get started! 
