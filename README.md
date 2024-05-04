@@ -43,12 +43,12 @@ Description of question
   - `I` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
 - ### Training Model with Gradient Descent 
-  - `B` [GradientDescent.md](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
+  - `B` [Gradient Descent](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
   - `B` [Implement Gradient Descent](Supervised%20Learning/Gradient%20Descent/)
   - `B` [Gradient Descent Intuition ](Supervised%20Learning/Gradient%20Descent/GradientDescentIntuition.md)
-  - `B` [LearningRate.md](Supervised%20Learning/Gradient%20Descent/)
-  - `B` [GradientDescentLinearRegression.md](Supervised%20Learning/Gradient%20Descent/)
-  - `B` [RunningGradientDescent.md](Supervised%20Learning/Gradient%20Descent/)
+  - `B` [Learning Rate](Supervised%20Learning/Gradient%20Descent/)
+  - `B` [Gradient Descent with Linear Regression ](Supervised%20Learning/Gradient%20Descent/)
+  - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/)
   - `I` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
 - ###  Multiple Linear Regression
