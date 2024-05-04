@@ -1,6 +1,8 @@
 # Machine-Learning-Specialization ( In Progress...)
 - ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this course a try 😄👍. 
 - ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
+
+--- 
 - #### I also have occasionally added questions like taught in classes  to help make sure you understand the content like this 🙂
 **Question:**
 Description of question 
@@ -8,6 +10,7 @@ Description of question
 - Option B
 >  Answer: Solution will be given here, with some explaination in below lines
 
+---
 
 >  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
 
@@ -32,6 +35,7 @@ Description of question
 
 - `N` [JupyterNotebook](Jupyter%20Notebooks/IntroductiontoJupyterNotebook.ipynb) (**Clone and Open it in your IDE**)
 
+--- 
 
 ## Superwised Machine Learning
 - ### Regression Model
