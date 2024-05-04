@@ -140,6 +140,8 @@ Description of question
   - [Matrix Multiplication Code]() 
 
 - ### Neural Network Training 
+  - [TensorFlow Implementation]() 
+  - [Training Details]() 
 
 - ### Activation Functions 
 
