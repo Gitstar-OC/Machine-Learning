@@ -228,7 +228,11 @@ Description of question
   - [Choosing Numbers of clusters]() 
 
 - ### Anomaly Detection 
-  - [
+  - [Finding Unusual Events]() 
+  - [Gaussian (normal) distribution]() 
+  - [Anomoly Detection Algoritm]() 
+  - [Developing and Evaluating an Anomaly Detection System]() 
+  - [Choosing What Features to Use]() 
 
 
 
