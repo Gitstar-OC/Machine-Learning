@@ -161,7 +161,9 @@ Description of question
   - [Additional Layer Types]() 
 
 - ### Back Propogation (Optional) 
-  - [
+  - [What is a derivative?]() (Optional)
+  - [Computation Graph]() (Optional)
+  - [Larger Neural Network Example]() (Optional)
 
 
 
