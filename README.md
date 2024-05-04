@@ -111,7 +111,10 @@ Description of question
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
 - ### Neural Network Model
-
+  - [Neural Network Layer]() 
+  - [More Complex Neural Networks]() 
+  - [Inference: Making Predictions]() 
+  
 - ### TensorFlow Implementation
 
 - ### Neural Network Implementation in Python 
