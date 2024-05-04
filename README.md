@@ -168,16 +168,18 @@ Description of question
   - `N` [Back Propogation]() 
   
 - ###  Advice for Applying Machine Learning 
-
+  - [Deciding What to try next]() 
+  - [Evaluating a Model]() 
+  - [Model Selection and Training / Cross Validatiion / Test Sets]() 
 
 - ### Bias and Variance 
-
+  - [
 
 - ### Machine Learning Development Process 
-
+  - [
 
 - ### Skewed Datasets (Optional) 
-
+  - [
 
 
 ## Unsupervised Machine Learning
