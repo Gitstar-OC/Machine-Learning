@@ -241,7 +241,9 @@ Description of question
   - [Binary Labels: Favs, Likes and clicks]() 
 
 - ### Recommender Systems Implementation Detail 
-  - [
+  - [Mean Normalization]() 
+  - [TensorFlow Implementation of Collaborative Filtering]() 
+  - [Finding Relatd Items]() 
 
 - ### Content - Based Filtering 
   - [
