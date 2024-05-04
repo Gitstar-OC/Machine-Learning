@@ -52,6 +52,11 @@ Description of question
   - `I` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ###  Multiple Linear Regression
+  - [Multiple Features]()
+  - [Vectorization Part 1]()
+  - [Vectorization Part 2]()
+  - [Gradient Descent for Multiple Linear Regression]() 
+
 
 
 ## Advanced Learning Algotrithms
