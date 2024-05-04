@@ -77,7 +77,8 @@ Description of question
   - [Polynomial Regression]() 
   - `N` [Feature Engineering and Polynomial Regression]() 
   - `N` [Linear Regression with scikit-learn]()
-- 
+- `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
+
 ## Advanced Learning Algotrithms
 
 
