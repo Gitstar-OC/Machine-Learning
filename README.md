@@ -252,9 +252,10 @@ Description of question
   - [Ethical Use of Recommender Systems]() 
   - [TensorFlow Implementations fo Content-Based Filtering]() 
 
-- ### Principal Componenet Analysis 
-  - [
-
+- ### Principal Componenet Analysis (Optional) 
+  - [Reducing Number of Features]()
+  - [PCA algoritm]()
+  - [PCA in Code]() 
 
 
  <!--- Welldone Champ--->
