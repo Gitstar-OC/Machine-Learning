@@ -10,6 +10,7 @@ Description of question
 
 
 >  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
+>  `BN` for Easy Notebook, `IN` for Intermidiate, and `AN` for Advanced!!
 
 
 ### Start with the basics
