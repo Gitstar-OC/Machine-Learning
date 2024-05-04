@@ -71,7 +71,7 @@ Description of question
   - [Feature Scaling Part 2]() 
   - [Checking Gradient Descent for Convergence]() 
   - [Choosing the Learning Rate]()
-  - `N` [Feature Scaling and Learning Rate]() <!-- Add Level -->
+  - `N` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments -->
   <!-- 
   - [Feature Engineering]()
   - [Polynomial Regression]() 
