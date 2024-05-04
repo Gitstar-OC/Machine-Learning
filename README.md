@@ -191,7 +191,8 @@ Description of question
   - [Fairness, Bias, and Ethics]() 
 
 - ### Skewed Datasets (Optional) 
-  - [
+  - [Error Metrics for Skewed Datasets]() 
+  - [Trading off precision and recall]() 
 
 
 ## Unsupervised Machine Learning
