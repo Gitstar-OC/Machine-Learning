@@ -174,7 +174,12 @@ Description of question
   - `N` [Model Evaluation and Selection]() 
 
 - ### Bias and Variance 
-  - [
+  - [Diagnosing Bias and Variance]() 
+  - [Regularization and Bias/Variance]() 
+  - [Establishing a baseline level of Performance]() 
+  - [Learning Curves]()
+  - [Deciding what to try next revisited]() 
+  - [Bias / Variance and Neural Networks]() 
 
 - ### Machine Learning Development Process 
   - [
