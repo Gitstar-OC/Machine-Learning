@@ -258,14 +258,18 @@ Description of question
   - [PCA in Code]() 
   - `N` [PCA and Data Visualization]()
 
-  - ### Reinforcement Learning Introduction 
+- ### Reinforcement Learning Introduction 
+  - [What is Reinforcement Learning?]() 
+  - [Mars Rover Example]() 
+  - [The Return in Reinforcement Learning]() 
+  - [Making Decisions: Policies in Reinforcement Learning]() 
+  - [Review of Key Concepts]() 
 
+- ### State - Action Value Function 
+  - [
 
-  - ### State - Action Value Function 
-  
-
-  - ### Continuous State Spaces 
-
+- ### Continuous State Spaces 
+  - [
   
 
 
