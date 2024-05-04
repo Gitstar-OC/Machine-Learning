@@ -1,5 +1,5 @@
 # Machine-Learning-Specialization ( In Progress...)
-- ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this course a try 😄👍. 
+- ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍. 
 - ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
 
 --- 
