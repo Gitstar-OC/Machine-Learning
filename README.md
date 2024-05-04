@@ -220,10 +220,15 @@ Description of question
 - [Unsupervised Machine Learning]() (For => What you will learn in this part)
 
 - ### Clustering
-
+  - [What is Clustering]() 
+  - [K-means Intuition]() 
+  - [K-means Algorithm]() 
+  - [Optimization Objective]()
+  - [Initializing K-means]() 
+  - [Choosing Numbers of clusters]() 
 
 - ### Anomaly Detection 
-
+  - [
 
 
 
