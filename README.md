@@ -98,7 +98,8 @@ Description of question
 
 - ### Gradient Descent for Logistic Regression 
   - [Gradient Descent Implementation]() 
-
+  - `N` [Gradient Descent for Logistic Regression]() 
+  - `N` [Logistic Regression with Scikit-Learn]() 
 
 - ### The Problem of Overfitting 
 
