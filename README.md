@@ -124,6 +124,10 @@ Description of question
   
 
 - ### Neural Network Implementation in Python 
+  - [Forward prop in single layer]() 
+  - [General Implementation of Forward Propogation]() 
+  
+
 
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?]() 
