@@ -219,6 +219,12 @@ Description of question
 ## Unsupervised Machine Learning, Recommender Systems, Reinforcement Learning
 - [Unsupervised Machine Learning]() (For => What you will learn in this part)
 
+- ### Clustering
+
+
+- ### Anomaly Detection 
+
+
 
 
  <!--- Welldone Champ--->
