@@ -147,7 +147,7 @@ Description of question
   - [Alternatives to the Sigmoid Activation]() 
   - [Choosing Activation Functions]()
   - [Why do we need Activation Functions]() 
-
+  - `N` [ReLU Activation]() 
 
 - ### Multiclass Classification 
   - [
