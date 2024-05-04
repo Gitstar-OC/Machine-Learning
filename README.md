@@ -64,8 +64,9 @@ Description of question
   - [Vectorization Part 2]()
   - `BN` [Python, Numphy and Vectorization]()
   - [Gradient Descent for Multiple Linear Regression]() 
-  - `IN` [Multiple Linear Regression]() 
-<!--
+  - `IN` [Multiple Linear Regression]()
+
+
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
