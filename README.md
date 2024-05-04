@@ -127,8 +127,6 @@ Description of question
   - [Forward prop in single layer]() 
   - [General Implementation of Forward Propogation]() 
   - `N` [Coffee Roasting NumPy]()
-  
-
 
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?]() 
@@ -159,7 +157,8 @@ Description of question
   - `N` [Multiclass]() 
 
 - ### Additional Neural Network Concepts
-  - [
+  - [Advanced Optimization]() 
+  - [Additional Layer Types]() 
 
 - ### Back Propogation (Optional) 
   - [
