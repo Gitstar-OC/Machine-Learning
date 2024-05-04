@@ -256,6 +256,7 @@ Description of question
   - [Reducing Number of Features]()
   - [PCA algoritm]()
   - [PCA in Code]() 
+  - `N` [PCA and Data Visualization]()
 
 
  <!--- Welldone Champ--->
