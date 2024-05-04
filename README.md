@@ -44,11 +44,11 @@ Description of question
 
 - ### Training Model with Gradient Descent 
   - `B` [Gradient Descent](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
-  - `B` [Implement Gradient Descent](Supervised%20Learning/Gradient%20Descent/)
+  - `B` [Implement Gradient Descent](Supervised%20Learning/Gradient%20Descent/ImplementGradientDescent.md)
   - `B` [Gradient Descent Intuition ](Supervised%20Learning/Gradient%20Descent/GradientDescentIntuition.md)
-  - `B` [Learning Rate](Supervised%20Learning/Gradient%20Descent/)
-  - `B` [Gradient Descent with Linear Regression ](Supervised%20Learning/Gradient%20Descent/)
-  - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/)
+  - `B` [Learning Rate](Supervised%20Learning/Gradient%20Descent/LearningRate.md)
+  - `B` [Gradient Descent with Linear Regression ](Supervised%20Learning/Gradient%20Descent/GradientDescentLinearRegression.md)
+  - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
   - `I` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ###  Multiple Linear Regression
