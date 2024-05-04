@@ -139,6 +139,19 @@ Description of question
   - [Matrix Multiplication Rules]() 
   - [Matrix Multiplication Code]() 
 
+- ### Neural Network Training 
+
+- ### Activation Functions 
+
+- ### Multiclass Classification 
+
+- ### Additional Neural Network Concepts
+
+- ### Back Propogation (Optional) 
+
+
+
+
 
 ## Unsupervised Machine Learning
 --> 
@@ -147,3 +160,4 @@ Description of question
 
  <!--- Welldone Champ--->
  # Give it a ⭐ if you liked this!
+
