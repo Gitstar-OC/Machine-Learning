@@ -199,7 +199,13 @@ Description of question
   - [Learning Process]() 
   
 - ### Decision Tree Learning
-  - [
+  - [Measuring Purity]() 
+  - [Choosing a Split: Information Gain]() 
+  - [Putting it Together]() 
+  - [Using One-hot Encoding of Categorial Features]() 
+  - [Continuous Valued Features]() 
+  - [Regression Trees]() (Optional) 
+
   
 - ### Tree Ensembles 
   - [
