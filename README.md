@@ -183,7 +183,12 @@ Description of question
   - `N` [Diagnosing Bias and Variance]() 
 
 - ### Machine Learning Development Process 
-  - [
+  - [Iterative Loop of ML Development]() 
+  - [Error Analysis]() 
+  - [Adding Data]() 
+  - [Transfer Learning: Using Data from a Different Task]() 
+  - [Full Cycle of Machine Learning Project]() 
+  - [Fairness, Bias, and Ethics]() 
 
 - ### Skewed Datasets (Optional) 
   - [
