@@ -150,7 +150,11 @@ Description of question
   - `N` [ReLU Activation]() 
 
 - ### Multiclass Classification 
-  - [
+  - [Multiclass]() 
+  - [Softmax]() 
+  - [Neural Network with Softmax output]() 
+  - [Improved Implementation of Softmax]() 
+  - [Classification with Multiple Outputs]() (Optional)
 
 - ### Additional Neural Network Concepts
   - [
