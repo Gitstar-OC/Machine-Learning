@@ -14,7 +14,7 @@ Description of question
 
 >  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
 
->  `BN` for Easy Notebook, `IN` for Intermidiate, and `AN` for Advanced!!
+>  `BN` for Easy Notebook, `IN` for Intermidiate, and `EN` for Notebook Assignment to test what you have learned!!
 
 
 ### Start with the basics
@@ -71,10 +71,13 @@ Description of question
   - [Feature Scaling Part 2]() 
   - [Checking Gradient Descent for Convergence]() 
   - [Choosing the Learning Rate]()
+  - `N` [Feature Scaling and Learning Rate]() <!-- Add Level -->
+  <!-- 
   - [Feature Engineering]()
   - [Polynomial Regression]() 
-
-
+  - `N` [Feature Engineering and Polynomial Regression]() 
+  - `N` [Linear Regression with scikit-learn]()
+- 
 ## Advanced Learning Algotrithms
 
 
