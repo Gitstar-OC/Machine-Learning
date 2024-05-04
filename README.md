@@ -66,7 +66,6 @@ Description of question
   - [Gradient Descent for Multiple Linear Regression]() 
   - `IN` [Multiple Linear Regression]()
 
-<!--
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
