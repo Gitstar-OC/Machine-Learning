@@ -108,6 +108,17 @@ Description of question
   - `N` [Regularization]()
 
 ## Advanced Learning Algotrithms
+- [Advanced Learning Algorithms]() (For => What you will learn in this part)
+
+- ### Neural Network Model
+
+- ### TensorFlow Implementation
+
+- ### Neural Network Implementation in Python 
+
+- Speculations on Artificial General Intelligence (AGI)
+  - [Is there a path to AGI?]() 
+
 
 
 ## Unsupervised Machine Learning
