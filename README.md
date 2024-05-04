@@ -44,11 +44,11 @@ Description of question
 
 - ### Training Model with Gradient Descent 
   - `B` [GradientDescent.md](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
-  - [ImplementGradientDescent.md]()
-  - [GradientDescentIntuition.md]()
-  - [LearningRate.md]()
-  - [GradientDescentLinearRegression.md]()
-  - [RunningGradientDescent.md]()
+  - `B` [ImplementGradientDescent.md]()
+  - `B` [GradientDescentIntuition.md]()
+  - `B` [LearningRate.md]()
+  - `B` [GradientDescentLinearRegression.md]()
+  - `B` [RunningGradientDescent.md]()
   - `I` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook and run the whole code by _Shift+Enter_**)
 
 ## Advanced Learning Algotrithms
