@@ -1,7 +1,7 @@
 # Machine-Learning-Specialization ( In Progress...)
 - ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this course a try 😄👍. 
 - ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
-- ### I also have occasionally added questions like taught in classes  to help make sure you understand the content like this 🙂
+- #### I also have occasionally added questions like taught in classes  to help make sure you understand the content like this 🙂
 **Question:**
 Description of question 
 - Option A 
@@ -10,6 +10,7 @@ Description of question
 
 
 >  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
+
 >  `BN` for Easy Notebook, `IN` for Intermidiate, and `AN` for Advanced!!
 
 
