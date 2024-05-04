@@ -161,11 +161,22 @@ Description of question
   - [Additional Layer Types]() 
 
 - ### Back Propogation (Optional) 
-  - [What is a derivative?]() (Optional)
-  - [Computation Graph]() (Optional)
-  - [Larger Neural Network Example]() (Optional)
-  - `N` [Derivatives]() (Optional)
-  - `N` [Back Propogation]() (Optional) 
+  - [What is a derivative?]() 
+  - [Computation Graph]() 
+  - [Larger Neural Network Example]() 
+  - `N` [Derivatives]() 
+  - `N` [Back Propogation]() 
+  
+- ###  Advice for Applying Machine Learning 
+
+
+- ### Bias and Variance 
+
+
+- ### Machine Learning Development Process 
+
+
+- ### Skewed Datasets (Optional) 
 
 
 
