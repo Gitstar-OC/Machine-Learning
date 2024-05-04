@@ -246,7 +246,11 @@ Description of question
   - [Finding Relatd Items]() 
 
 - ### Content - Based Filtering 
-  - [
+  - [Collaborative Filtering vs Content-Based Filtering]() 
+  - [Deep Learning for Content-Based Filtering]()
+  - [Recommending from a Large Catalogue]() 
+  - [Ethical Use of Recommender Systems]() 
+  - [TensorFlow Implementations fo Content-Based Filtering]() 
 
 - ### Principal Componenet Analysis 
   - [
