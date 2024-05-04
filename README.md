@@ -65,13 +65,13 @@ Description of question
   - `BN` [Python, Numphy and Vectorization]()
   - [Gradient Descent for Multiple Linear Regression]() 
   - `IN` [Multiple Linear Regression]() 
-
+<!--
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
   - [Checking Gradient Descent for Convergence]() 
   - [Choosing the Learning Rate]()
-  - `N` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments -->
+  - `N` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments
   - [Feature Engineering]()
   - [Polynomial Regression]() 
   - `N` [Feature Engineering and Polynomial Regression]() 
