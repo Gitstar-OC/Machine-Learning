@@ -25,8 +25,8 @@ Description of question
 ### Difference between supervised and unsupervised machine learning
 - `B` [Supervised Machine Learning Part 1](Supervised%20Learning/SupervisedLearning1.md)
 - `B` [Supervised Machine Learning Part 2](Supervised%20Learning/SupervisedLearning2.md)
-- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Learning/UnsupervisedLearning1.md)
-- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Learning/UnsupervisedLearning2.md)
+- `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Machine%20Learning/UnsupervisedLearning1.md)
+- `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Machine%20Learning/UnsupervisedLearning2.md)
 
 ### Jupyter Notebooks
 - Jupyter notebook is a type of `IDE` in machine learning which provides to many options to the developers to create and run the code. Check the below file to get started! 
@@ -57,7 +57,7 @@ Description of question
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
   - `IN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-
+<!-- 
 - ###  Multiple Linear Regression
   - [Multiple Features]()
   - [Vectorization Part 1]()
@@ -286,6 +286,6 @@ Description of question
   - [The State of Reinforcement Learning]() 
 
 
- <!--- Welldone Champ--->
+  Welldone Champ
  # Give it a ⭐ if you liked this!
 
