@@ -62,9 +62,9 @@ Description of question
   - `B` [Multiple Features](Supervised%20Learning/Multiple%20Linear%20Regression/MultipleFeatures.md)
   - `B` [Vectorization Part 1](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart1.md)
   - `B` [Vectorization Part 2](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart2.md)
-  - `BN` [Python, Numphy and Vectorization]()
+  - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb)
   - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
-  - `IN` [Multiple Linear Regression]()
+  - `IN` [Multiple Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb)
 <!-- 
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
