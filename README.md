@@ -68,12 +68,12 @@ Description of question
  
 - ### Gradient Descent in Practice
   - `B` [Feature Scaling Part 1](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart1.md) 
-  - `B` [Feature Scaling Part 2](Supervised%20Learning/Gradient%20Descent%20in%20Practice/) 
-  - `B` [Checking Gradient Descent for Convergence](Supervised%20Learning/Gradient%20Descent%20in%20Practice/) 
-  - `B` [Choosing the Learning Rate](Supervised%20Learning/Gradient%20Descent%20in%20Practice/)
+  - `B` [Feature Scaling Part 2](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart2.md) 
+  - `B` [Checking Gradient Descent for Convergence](Supervised%20Learning/Gradient%20Descent%20in%20Practice/CheckingGradientDescentforConvergence.md) 
+  - `B` [Choosing the Learning Rate](Supervised%20Learning/Gradient%20Descent%20in%20Practice/ChoosingtheLearningRate.md)
   - `BN` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments
-  - `B` [Feature Engineering](Supervised%20Learning/Gradient%20Descent%20in%20Practice/)
-  - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/) 
+  - `B` [Feature Engineering](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureEngineering.md)
+  - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/PolynomialRegression.md) 
   - `BN` [Feature Engineering and Polynomial Regression]() 
   - `BN` [Linear Regression with scikit-learn]()
 - `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
