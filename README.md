@@ -46,7 +46,7 @@ Description of question
   - `B` [Cost Function Intuition](Supervised%20Learning/Regression%20Model/CostFunctionIntuition.md)
   - `B` [Visualizing the cost function](Supervised%20Learning/Regression%20Model/VisualizingCostFunction.md)
   - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
-  - `IN` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+  - `BN` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ### Training Model with Gradient Descent 
   - `B` [Gradient Descent](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
@@ -55,7 +55,7 @@ Description of question
   - `B` [Learning Rate](Supervised%20Learning/Gradient%20Descent/LearningRate.md)
   - `B` [Gradient Descent with Linear Regression ](Supervised%20Learning/Gradient%20Descent/GradientDescentLinearRegression.md)
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
-  - `IN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+  - `BN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 
 - ###  Multiple Linear Regression
@@ -64,18 +64,18 @@ Description of question
   - `B` [Vectorization Part 2](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart2.md)
   - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb) (**Clone and Open it in your IDE**)
   - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
-  - `IN` [Multiple Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
+  - `BN` [Multiple Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
  
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
   - [Checking Gradient Descent for Convergence]() 
   - [Choosing the Learning Rate]()
-  - `N` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments
+  - `BN` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments
   - [Feature Engineering]()
   - [Polynomial Regression]() 
-  - `N` [Feature Engineering and Polynomial Regression]() 
-  - `N` [Linear Regression with scikit-learn]()
+  - `BN` [Feature Engineering and Polynomial Regression]() 
+  - `BN` [Linear Regression with scikit-learn]()
 - `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
 <!--
 - ### Classification with Logistic Regression
