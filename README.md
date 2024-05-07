@@ -59,11 +59,11 @@ Description of question
 
 
 - ###  Multiple Linear Regression
-  - `B` [Multiple Features]()
-  - `B` [Vectorization Part 1]()
-  - `B` [Vectorization Part 2]()
+  - `B` [Multiple Features](Supervised%20Learning/Multiple%20Linear%20Regression/MultipleFeatures.md)
+  - `B` [Vectorization Part 1](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart1.md)
+  - `B` [Vectorization Part 2](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart2.md)
   - `BN` [Python, Numphy and Vectorization]()
-  - `B` [Gradient Descent for Multiple Linear Regression]() 
+  - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
   - `IN` [Multiple Linear Regression]()
 <!-- 
 - ### Gradient Descent in Practice
