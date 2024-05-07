@@ -67,13 +67,13 @@ Description of question
   - `BN` [Multiple Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
  
 - ### Gradient Descent in Practice
-  - [Feature Scaling Part 1]() 
-  - [Feature Scaling Part 2]() 
-  - [Checking Gradient Descent for Convergence]() 
-  - [Choosing the Learning Rate]()
+  - `B` [Feature Scaling Part 1]() 
+  - `B` [Feature Scaling Part 2]() 
+  - `B` [Checking Gradient Descent for Convergence]() 
+  - `B` [Choosing the Learning Rate]()
   - `BN` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments
-  - [Feature Engineering]()
-  - [Polynomial Regression]() 
+  - `B` [Feature Engineering]()
+  - `B` [Polynomial Regression]() 
   - `BN` [Feature Engineering and Polynomial Regression]() 
   - `BN` [Linear Regression with scikit-learn]()
 - `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
