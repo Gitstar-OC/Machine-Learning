@@ -57,15 +57,15 @@ Description of question
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
   - `IN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-<!-- 
-- ###  Multiple Linear Regression
-  - [Multiple Features]()
-  - [Vectorization Part 1]()
-  - [Vectorization Part 2]()
-  - `BN` [Python, Numphy and Vectorization]()
-  - [Gradient Descent for Multiple Linear Regression]() 
-  - `IN` [Multiple Linear Regression]()
 
+- ###  Multiple Linear Regression
+  - `B` [Multiple Features]()
+  - `B` [Vectorization Part 1]()
+  - `B` [Vectorization Part 2]()
+  - `BN` [Python, Numphy and Vectorization]()
+  - `B` [Gradient Descent for Multiple Linear Regression]() 
+  - `IN` [Multiple Linear Regression]()
+<!-- 
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
