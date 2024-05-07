@@ -65,7 +65,7 @@ Description of question
   - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb) (**Clone and Open it in your IDE**)
   - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
   - `IN` [Multiple Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
- 
+ <!--
 - ### Gradient Descent in Practice
   - [Feature Scaling Part 1]() 
   - [Feature Scaling Part 2]() 
