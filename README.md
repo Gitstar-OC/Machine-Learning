@@ -90,9 +90,9 @@ Description of question
 
 - ### Cost Function for Logistic Regression 
   - `B` [Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/CostFunctionforLogisticRegression.md) 
-  - `BN` [Logistic Loss]() 
+  - `BN` [Logistic Loss](Jupyter%20Notebooks/LogisticLoss.ipynb) 
   - `B` [Simplified Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/SimplifiedCostFunctionforLogisticRegression.md) 
-  - `IN` [Cost Function for Logistic Regression]() 
+  - `IN` [Cost Function for Logistic Regression](Jupyter%20Notebooks/CostFunctionforLogisticRegression.ipynb) 
 
 <!--
 
