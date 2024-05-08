@@ -89,10 +89,10 @@ Description of question
 
 
 - ### Cost Function for Logistic Regression 
-  - [Cost Function for Logistic Regression]() 
-  - `N` [Logistic Loss]() 
-  - [Simplified Cost Function for Logistic Regression]() 
-  - `N` [Cost Function for Logistic Regression]() 
+  - `B` [Cost Function for Logistic Regression]() 
+  - `BN` [Logistic Loss]() 
+  - `B` [Simplified Cost Function for Logistic Regression]() 
+  - `IN` [Cost Function for Logistic Regression]() 
 
 <!--
 
