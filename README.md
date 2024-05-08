@@ -62,30 +62,30 @@ Description of question
   - `B` [Multiple Features](Supervised%20Learning/Multiple%20Linear%20Regression/MultipleFeatures.md)
   - `B` [Vectorization Part 1](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart1.md)
   - `B` [Vectorization Part 2](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart2.md)
-  - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb) (**Clone and Open it in your IDE**)
+  - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
-  - `BN` [Multiple Variable Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
+  - `BN` [Multiple Variable Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
  
 - ### Gradient Descent in Practice
   - `B` [Feature Scaling Part 1](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart1.md) 
   - `B` [Feature Scaling Part 2](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart2.md) 
   - `B` [Checking Gradient Descent for Convergence](Supervised%20Learning/Gradient%20Descent%20in%20Practice/CheckingGradientDescentforConvergence.md) 
   - `B` [Choosing the Learning Rate](Supervised%20Learning/Gradient%20Descent%20in%20Practice/ChoosingtheLearningRate.md)
-  - `BN` [Feature Scaling and Learning Rate](Jupyter%20Notebooks/FeatureScalingAndLearningRate.ipynb) (**Clone and Open it in your IDE**)
+  - `BN` [Feature Scaling and Learning Rate](Jupyter%20Notebooks/FeatureScalingAndLearningRate.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `B` [Feature Engineering](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureEngineering.md)
   - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/PolynomialRegression.md) 
-  - `BN` [Feature Engineering and Polynomial Regression](Jupyter%20Notebooks/FeatureEngineeringAndPolynomialRegression.ipynb)  (**Clone and Open it in your IDE**)
-  - `BN` [Linear Regression with scikit-learn](Jupyter%20Notebooks/LRwithScikitLearn.ipynb) (**Clone and Open it in your IDE**)
+  - `BN` [Feature Engineering and Polynomial Regression](Jupyter%20Notebooks/FeatureEngineeringAndPolynomialRegression.ipynb)   (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+  - `BN` [Linear Regression with scikit-learn](Jupyter%20Notebooks/LRwithScikitLearn.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 - `T` [Linear Regression Test Notebook/Lab](LinearRegressionTest.ipynb) (**Clone and Open it in your IDE, follow all the instructions given and write the solution code**)
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
 - ### Classification with Logistic Regression
   - `B` [Classification]() 
-  - `BN` [Classification]()
+  - `BN` [Classification]()  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `B` [Logistic Regression]()
-  - `BN` [Sigmoid Function and Logistic Regression]() 
+  - `BN` [Sigmoid Function and Logistic Regression]()  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `B` [Decision Boundary]() 
-  - `BN` [Decision Boundary]() 
+  - `BN` [Decision Boundary]()  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 <!--
 
