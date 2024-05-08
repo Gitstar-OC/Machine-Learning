@@ -87,13 +87,14 @@ Description of question
   - `B` [Decision Boundary](Supervised%20Learning/Classification%20with%20Logistic%20Regression/DecisionBoundary.md) 
   - `BN` [Decision Boundary](Jupyter%20Notebooks/DecisionBoundary.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-<!--
 
 - ### Cost Function for Logistic Regression 
-  - [Cost Function for Logistic Regression]() 
-  - `N` [Logistic Loss]() 
-  - [Simplified Cost Function for Logistic Regression]() 
-  - `N` [Cost Function for Logistic Regression]() 
+  - `B` [Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/CostFunctionforLogisticRegression.md) 
+  - `BN` [Logistic Loss]() 
+  - `B` [Simplified Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/SimplifiedCostFunctionforLogisticRegression.md) 
+  - `IN` [Cost Function for Logistic Regression]() 
+
+<!--
 
 - ### Gradient Descent for Logistic Regression 
   - [Gradient Descent Implementation]() 
