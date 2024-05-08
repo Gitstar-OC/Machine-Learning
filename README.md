@@ -76,7 +76,8 @@ Description of question
   - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/PolynomialRegression.md) 
   - `BN` [Feature Engineering and Polynomial Regression](Jupyter%20Notebooks/FeatureEngineeringAndPolynomialRegression.ipynb)  (**Clone and Open it in your IDE**)
   - `BN` [Linear Regression with scikit-learn](Jupyter%20Notebooks/LRwithScikitLearn.ipynb) (**Clone and Open it in your IDE**)
-- `T` [Linear Regression Test Notebook/Lab](LinearRegressionTest.ipynb)
+- `T` [Linear Regression Test Notebook/Lab](LinearRegressionTest.ipynb) (**Clone and Open it in your IDE, follow all the instructions given and write the solution code**)
+- > Don't take any pressure of it, hints and solution are given in the notebook as well
 
 <!--
 - `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
