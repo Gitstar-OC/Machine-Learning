@@ -79,9 +79,6 @@ Description of question
 - `T` [Linear Regression Test Notebook/Lab](LinearRegressionTest.ipynb) (**Clone and Open it in your IDE, follow all the instructions given and write the solution code**)
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
-<!--
-- `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
-
 - ### Classification with Logistic Regression
   - [Motivations]() 
   - `N` [Classification]()
@@ -89,6 +86,8 @@ Description of question
   - `N` [Sigmoid Function and Logistic Regression]() 
   - [Decision Boundary]() 
   - `N` [Decision Boundary]() 
+
+<!--
 
 - ### Cost Function for Logistic Regression 
   - [Cost Function for Logistic Regression]() 
