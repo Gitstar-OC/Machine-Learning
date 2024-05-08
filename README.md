@@ -64,20 +64,23 @@ Description of question
   - `B` [Vectorization Part 2](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart2.md)
   - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb) (**Clone and Open it in your IDE**)
   - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
-  - `BN` [Multiple Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
+  - `BN` [Multiple Variable Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb) (**Clone and Open it in your IDE**)
  
 - ### Gradient Descent in Practice
-  - `B` [Feature Scaling Part 1]() 
-  - `B` [Feature Scaling Part 2]() 
-  - `B` [Checking Gradient Descent for Convergence]() 
-  - `B` [Choosing the Learning Rate]()
-  - `BN` [Feature Scaling and Learning Rate]() <!-- Add Level, Practice Quiz Questions, Programming Assignments
-  - `B` [Feature Engineering]()
-  - `B` [Polynomial Regression]() 
-  - `BN` [Feature Engineering and Polynomial Regression]() 
-  - `BN` [Linear Regression with scikit-learn]()
-- `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
+  - `B` [Feature Scaling Part 1](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart1.md) 
+  - `B` [Feature Scaling Part 2](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart2.md) 
+  - `B` [Checking Gradient Descent for Convergence](Supervised%20Learning/Gradient%20Descent%20in%20Practice/CheckingGradientDescentforConvergence.md) 
+  - `B` [Choosing the Learning Rate](Supervised%20Learning/Gradient%20Descent%20in%20Practice/ChoosingtheLearningRate.md)
+  - `BN` [Feature Scaling and Learning Rate](Jupyter%20Notebooks/FeatureScalingAndLearningRate.ipynb) (**Clone and Open it in your IDE**)
+  - `B` [Feature Engineering](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureEngineering.md)
+  - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/PolynomialRegression.md) 
+  - `BN` [Feature Engineering and Polynomial Regression](Jupyter%20Notebooks/FeatureEngineeringAndPolynomialRegression.ipynb)  (**Clone and Open it in your IDE**)
+  - `BN` [Linear Regression with scikit-learn](Jupyter%20Notebooks/LRwithScikitLearn.ipynb) (**Clone and Open it in your IDE**)
+- `T` [Linear Regression Test Notebook/Lab](
+
 <!--
+- `EN` [Linear Regression Assignment]() (**Open it in your IDE and write the solution for the test**)
+
 - ### Classification with Logistic Regression
   - [Motivations]() 
   - `N` [Classification]()
