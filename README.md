@@ -80,11 +80,11 @@ Description of question
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
 - ### Classification with Logistic Regression
-  - `B` [Classification]() 
+  - `B` [Classification](Supervised%20Learning/Classification%20with%20Logistic%20Regression/Motivations.md) 
   - `BN` [Classification]()  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
-  - `B` [Logistic Regression]()
+  - `B` [Logistic Regression](Supervised%20Learning/Classification%20with%20Logistic%20Regression/LogisticRegression.md)
   - `BN` [Sigmoid Function and Logistic Regression]()  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
-  - `B` [Decision Boundary]() 
+  - `B` [Decision Boundary](Supervised%20Learning/Classification%20with%20Logistic%20Regression/DecisionBoundary.md) 
   - `BN` [Decision Boundary]()  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 <!--
