@@ -80,12 +80,12 @@ Description of question
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
 - ### Classification with Logistic Regression
-  - [Motivations]() 
-  - `N` [Classification]()
-  - [Logistic Regression]()
-  - `N` [Sigmoid Function and Logistic Regression]() 
-  - [Decision Boundary]() 
-  - `N` [Decision Boundary]() 
+  - `B` [Classification]() 
+  - `BN` [Classification]()
+  - `B` [Logistic Regression]()
+  - `BN` [Sigmoid Function and Logistic Regression]() 
+  - `B` [Decision Boundary]() 
+  - `BN` [Decision Boundary]() 
 
 <!--
 
