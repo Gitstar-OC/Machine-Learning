@@ -98,8 +98,8 @@ Description of question
 
 - ### Gradient Descent for Logistic Regression 
   - `B` [Gradient Descent Implementation](Supervised%20Learning/Gradient%20Descent%20for%20Logistic%20Regression/GradientDescentImplementation.md) 
-  - `IN` [Gradient Descent for Logistic Regression]() 
-  - `BN` [Logistic Regression with Scikit-Learn]() 
+  - `IN` [Gradient Descent for Logistic Regression](Jupyter%20Notebooks/GradientDescentforLogisticRegression.ipynb) 
+  - `BN` [Logistic Regression with Scikit-Learn](Jupyter%20Notebooks/LogisticRegressionwithScikit-Learn.ipynb) 
 
 
 <!--
