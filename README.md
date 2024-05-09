@@ -102,7 +102,6 @@ Description of question
   - `BN` [Logistic Regression with Scikit-Learn](Jupyter%20Notebooks/LogisticRegressionwithScikit-Learn.ipynb) 
 
 
-<!--
 - ### The Problem of Overfitting 
   - [The Problem of Overfitting]() 
   - [Addressing Overfiting]() 
@@ -114,6 +113,7 @@ Description of question
 
 --- 
 
+<!--
 ## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
