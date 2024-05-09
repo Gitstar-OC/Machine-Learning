@@ -296,4 +296,4 @@ Description of question
  # Give it a ⭐ if you liked this!
 --> 
 
-!! Most of the notes credit goes to the **great man** [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) and his great education websites like [Deep Learning AI]() and [Coursera]()
+!! Most of the notes credit of this note goes to the **great man and teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
