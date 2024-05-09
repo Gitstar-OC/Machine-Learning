@@ -8,8 +8,7 @@
 Description of question 
 - Option A 
 - Option B
->  Answer: Solution will be given here, with some explaination in below lines
-
+>  <details><summary><b>Answer</b></summary> Solution will be given here, with some explaination in below lines<details>
 ---
 
 >  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
