@@ -107,8 +107,8 @@ Description of question
   - `B` [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/AddressingOverfiting.md) 
   - `BN` [Overfitting](Jupyter%20Notebooks/Overfitting.ipynb) 
   - `B` [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/CostFunctionwithRegularization.md) 
-  - [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
-  - [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
+  - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
+  - `I` [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `IN` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
 
 --- 
