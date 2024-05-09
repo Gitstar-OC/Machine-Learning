@@ -3,15 +3,16 @@
 - ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
 
 --- 
+<!--
 - #### I also have occasionally added questions like taught in classes  to help make sure you understand the content like this 🙂
 **Question:**
 Description of question 
 - Option A 
 - Option B
->  Answer: Solution will be given here, with some explaination in below lines
+>  <details><summary><b>Answer</b></summary> Solution will be given here, with some explaination in below lines</details>
 
 ---
-
+-->
 >  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
 
 >  `BN` for Easy Notebook, `IN` for Intermidiate, and `T` for Notebook Assignment to test what you have learned!!
@@ -94,13 +95,14 @@ Description of question
   - `B` [Simplified Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/SimplifiedCostFunctionforLogisticRegression.md) 
   - `IN` [Cost Function for Logistic Regression](Jupyter%20Notebooks/CostFunctionforLogisticRegression.ipynb) 
 
-<!--
 
 - ### Gradient Descent for Logistic Regression 
   - [Gradient Descent Implementation]() 
   - `N` [Gradient Descent for Logistic Regression]() 
   - `N` [Logistic Regression with Scikit-Learn]() 
 
+
+<!--
 - ### The Problem of Overfitting 
   - [The Problem of Overfitting]() 
   - [Addressing Overfiting]() 
