@@ -105,11 +105,11 @@ Description of question
 - ### The Problem of Overfitting 
   - [The Problem of Overfitting](Supervised%20Learning/The%20Problem%20of%20Overfitting/TheProblemofOverfitting.md) 
   - [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/AddressingOverfiting.md) 
-  - `N` [Overfitting]() 
+  - `N` [Overfitting](Jupyter%20Notebooks/Overfitting.ipynb) 
   - [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/CostFunctionwithRegularization.md) 
   - [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
   - [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
-  - `N` [Regularization]()
+  - `N` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
 
 --- 
 
