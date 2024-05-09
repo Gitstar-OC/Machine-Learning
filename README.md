@@ -1,6 +1,6 @@
 # Machine-Learning-Specialization ( In Progress...)
 - ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍. 
-- ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
+- ### This are my machine learning notes that I have created in my learning journey of AI and Machine with the help of some top instructor from [Deep Learning AI](https://www.deeplearning.ai/), This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
 
 --- 
 <!--
@@ -295,3 +295,5 @@ Description of question
   Welldone Champ
  # Give it a ⭐ if you liked this!
 --> 
+
+!! Most of the notes credit goes to the **great man** [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
