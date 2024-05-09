@@ -103,12 +103,12 @@ Description of question
 
 
 - ### The Problem of Overfitting 
-  - [The Problem of Overfitting]() 
-  - [Addressing Overfiting]() 
+  - [The Problem of Overfitting](Supervised%20Learning/The%20Problem%20of%20Overfitting/) 
+  - [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/) 
   - `N` [Overfitting]() 
-  - [Cost Function with Regularization]() 
-  - [Regularized Linear Regression]() 
-  - [Regularized Logistic Regression]()
+  - [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/) 
+  - [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/) 
+  - [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/)
   - `N` [Regularization]()
 
 --- 
