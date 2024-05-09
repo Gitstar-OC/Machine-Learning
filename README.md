@@ -97,7 +97,7 @@ Description of question
 
 
 - ### Gradient Descent for Logistic Regression 
-  - `B` [Gradient Descent Implementation]() 
+  - `B` [Gradient Descent Implementation](Supervised%20Learning/Gradient%20Descent%20for%20Logistic%20Regression/GradientDescentImplementation.md) 
   - `IN` [Gradient Descent for Logistic Regression]() 
   - `BN` [Logistic Regression with Scikit-Learn]() 
 
