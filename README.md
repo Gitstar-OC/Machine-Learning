@@ -97,23 +97,23 @@ Description of question
 
 
 - ### Gradient Descent for Logistic Regression 
-  - [Gradient Descent Implementation]() 
-  - `N` [Gradient Descent for Logistic Regression]() 
-  - `N` [Logistic Regression with Scikit-Learn]() 
+  - `B` [Gradient Descent Implementation](Supervised%20Learning/Gradient%20Descent%20for%20Logistic%20Regression/GradientDescentImplementation.md) 
+  - `IN` [Gradient Descent for Logistic Regression](Jupyter%20Notebooks/GradientDescentforLogisticRegression.ipynb) 
+  - `BN` [Logistic Regression with Scikit-Learn](Jupyter%20Notebooks/LogisticRegressionwithScikit-Learn.ipynb) 
 
 
-<!--
 - ### The Problem of Overfitting 
-  - [The Problem of Overfitting]() 
-  - [Addressing Overfiting]() 
+  - [The Problem of Overfitting](Supervised%20Learning/The%20Problem%20of%20Overfitting/TheProblemofOverfitting.md) 
+  - [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/AddressingOverfiting.md) 
   - `N` [Overfitting]() 
-  - [Cost Function with Regularization]() 
-  - [Regularized Linear Regression]() 
-  - [Regularized Logistic Regression]()
+  - [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/CostFunctionwithRegularization.md) 
+  - [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
+  - [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `N` [Regularization]()
 
 --- 
 
+<!--
 ## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
