@@ -114,7 +114,7 @@ Description of question
 --- 
 
 ## Advanced Learning Algorithms
-- [Advanced Learning Algorithms]() (For => What you will learn in this part)
+- [Advanced Learning Algorithms](Advanced%20Learning%20Algorithms/Welcome.md) (For => What you will learn in this part)
 
 - ### Neural Network Intuition
   - `B` [Neurons and the Brain](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/NeuronsAndBrain.md)
