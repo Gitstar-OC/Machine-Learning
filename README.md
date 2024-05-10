@@ -110,7 +110,8 @@ Description of question
   - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
   - `I` [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `IN` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
-
+- `T` [Logistic Regression Test](Jupyter%20Notebooks/LogisticRegressionTest.ipynb)
+- > Don't take any pressure of it, hints and solution are given in the notebook as well
 --- 
 
 ## Advanced Learning Algorithms
