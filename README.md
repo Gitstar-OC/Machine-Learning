@@ -126,7 +126,7 @@ Description of question
   - [Neural Network Layer]() 
   - [More Complex Neural Networks]() 
   - [Inference: Making Predictions]() 
-  - `IN` [Neurons and Layers]() 
+  - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) 
 
 <!--  
 - ### TensorFlow Implementation
