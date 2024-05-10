@@ -1,6 +1,6 @@
 # Machine-Learning-Specialization ( In Progress...)
-- ### This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍. 
-- ### This are my machine learning notes I have created in my learning journey of AI and Machine, This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
+-  This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍. 
+-  This are my machine learning notes that I have created in my learning journey of AI and Machine with the help of some top instructor from [Deep Learning AI](https://www.deeplearning.ai/), This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
 
 --- 
 <!--
@@ -107,22 +107,28 @@ Description of question
   - `B` [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/AddressingOverfiting.md) 
   - `BN` [Overfitting](Jupyter%20Notebooks/Overfitting.ipynb) 
   - `B` [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/CostFunctionwithRegularization.md) 
-  - [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
-  - [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
+  - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
+  - `I` [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `IN` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
 
 --- 
 
-<!--
 ## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
+
+- ### Neural Network Intuition
+  - [Neurons and the Brain]()
+  - [Demand Prediction]()
+  - [Recognizing Images]()
+
 
 - ### Neural Network Model
   - [Neural Network Layer]() 
   - [More Complex Neural Networks]() 
   - [Inference: Making Predictions]() 
   - `N` [Neurons and Layers]() 
-  
+
+<!--  
 - ### TensorFlow Implementation
   - [Inference in Code]() 
   - [Data in TensorFlow]() 
@@ -294,4 +300,6 @@ Description of question
 
   Welldone Champ
  # Give it a ⭐ if you liked this!
+--> 
 
+!! Most of the notes credit of this note goes to the **great man and teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
