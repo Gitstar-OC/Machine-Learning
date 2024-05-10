@@ -116,6 +116,12 @@ Description of question
 ## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
+- ### Neural Network Intuition
+  - [Neurons and the Brain]()
+  - [Demand Prediction]()
+  - [Recognizing Images]()
+
+
 - ### Neural Network Model
   - [Neural Network Layer]() 
   - [More Complex Neural Networks]() 
