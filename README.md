@@ -126,7 +126,7 @@ Description of question
   - [Neural Network Layer]() 
   - [More Complex Neural Networks]() 
   - [Inference: Making Predictions]() 
-  - `N` [Neurons and Layers]() 
+  - `IN` [Neurons and Layers]() 
 
 <!--  
 - ### TensorFlow Implementation
