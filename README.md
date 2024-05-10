@@ -117,9 +117,9 @@ Description of question
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
 - ### Neural Network Intuition
-  - [Neurons and the Brain]()
-  - [Demand Prediction]()
-  - [Recognizing Images]()
+  - `B` [Neurons and the Brain](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/NeuronsAndBrain.md)
+  - `I` [Demand Prediction](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/DemandPrediction.md)
+  - `B` [Recognizing Images](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/RecognizingImages.md)
 
 
 - ### Neural Network Model
