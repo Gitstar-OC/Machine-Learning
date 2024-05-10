@@ -113,7 +113,6 @@ Description of question
 
 --- 
 
-<!--
 ## Advanced Learning Algorithms
 - [Advanced Learning Algorithms]() (For => What you will learn in this part)
 
@@ -122,7 +121,8 @@ Description of question
   - [More Complex Neural Networks]() 
   - [Inference: Making Predictions]() 
   - `N` [Neurons and Layers]() 
-  
+
+<!--  
 - ### TensorFlow Implementation
   - [Inference in Code]() 
   - [Data in TensorFlow]() 
