@@ -124,9 +124,9 @@ Description of question
 
 
 - ### Neural Network Model
-  - [Neural Network Layer]() 
-  - [More Complex Neural Networks]() 
-  - [Inference: Making Predictions]() 
+  - [Neural Network Layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/NeuralNetworkLayer.md) 
+  - [More Complex Neural Networks](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/MoreComplexNeuralNetworks.md) 
+  - [Inference: Making Predictions](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/InferenceMakingPredictions.md) 
   - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) 
 
 <!--  
