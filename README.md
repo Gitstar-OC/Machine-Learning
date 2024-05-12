@@ -127,7 +127,7 @@ Description of question
   - [Neural Network Layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/NeuralNetworkLayer.md) 
   - [More Complex Neural Networks](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/MoreComplexNeuralNetworks.md) 
   - [Inference: Making Predictions](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/InferenceMakingPredictions.md) 
-  - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) 
+  - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 <!--  
 - ### TensorFlow Implementation
