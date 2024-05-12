@@ -110,7 +110,8 @@ Description of question
   - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
   - `I` [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `IN` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
-
+- `T` [Logistic Regression Test](Jupyter%20Notebooks/LogisticRegressionTest.ipynb)
+- > Don't take any pressure of it, hints and solution are given in the notebook as well
 --- 
 
 ## Advanced Learning Algorithms
@@ -123,10 +124,10 @@ Description of question
 
 
 - ### Neural Network Model
-  - [Neural Network Layer]() 
-  - [More Complex Neural Networks]() 
-  - [Inference: Making Predictions]() 
-  - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) 
+  - [Neural Network Layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/NeuralNetworkLayer.md) 
+  - [More Complex Neural Networks](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/MoreComplexNeuralNetworks.md) 
+  - [Inference: Making Predictions](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/InferenceMakingPredictions.md) 
+  - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 <!--  
 - ### TensorFlow Implementation
