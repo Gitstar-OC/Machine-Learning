@@ -135,12 +135,13 @@ Description of question
   - `I` [Building a Neural Network](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/BuildingaNeuralNetwork.md)
   - `AN` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/CoffeeRoastingTensorFlow.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
 
-<!--  
 
 - ### Neural Network Implementation in Python 
   - [Forward prop in single layer]() 
   - [General Implementation of Forward Propogation]() 
   - `N` [Coffee Roasting NumPy]() (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+
+<!--  
 
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?]() 
