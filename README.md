@@ -130,17 +130,18 @@ Description of question
   - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ### TensorFlow Implementation
-  - [Inference in Code](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/InferenceinCode.md) 
-  - [Data in TensorFlow](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/DatainTensorFlow.md) 
-  - [Building a Neural Network](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/BuildingaNeuralNetwork.md)
-  - `N` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
+  - `I` [Inference in Code](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/InferenceinCode.md) 
+  - `I` [Data in TensorFlow](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/DatainTensorFlow.md) 
+  - `I` [Building a Neural Network](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/BuildingaNeuralNetwork.md)
+  - `AN` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/CoffeeRoastingTensorFlow.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
 
-<!--  
 
 - ### Neural Network Implementation in Python 
   - [Forward prop in single layer]() 
   - [General Implementation of Forward Propogation]() 
   - `N` [Coffee Roasting NumPy]() (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+
+<!--  
 
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?]() 
