@@ -133,7 +133,7 @@ Description of question
   - [Inference in Code](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/InferenceinCode.md) 
   - [Data in TensorFlow](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/DatainTensorFlow.md) 
   - [Building a Neural Network](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/BuildingaNeuralNetwork.md)
-  - `N` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
+  - `IN` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/CoffeeRoastingTensorFlow.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
 
 <!--  
 
