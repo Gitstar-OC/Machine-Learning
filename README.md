@@ -129,12 +129,13 @@ Description of question
   - [Inference: Making Predictions](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/InferenceMakingPredictions.md) 
   - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-
 - ### TensorFlow Implementation
-  - [Inference in Code]() 
-  - [Data in TensorFlow]() 
-  - [Building a Neural Network]()
-  - `N` [Coffee Roasting in TensorFlow]() (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
+  - [Inference in Code](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/InferenceinCode.md) 
+  - [Data in TensorFlow](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/DatainTensorFlow.md) 
+  - [Building a Neural Network](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/BuildingaNeuralNetwork.md)
+  - `N` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
+
+<!--  
 
 - ### Neural Network Implementation in Python 
   - [Forward prop in single layer]() 
@@ -150,7 +151,6 @@ Description of question
   - [Matrix Multiplication Rules]() 
   - [Matrix Multiplication Code]() 
 
-<!--  
 - ### Neural Network Training 
   - [TensorFlow Implementation]() 
   - [Training Details]() 
