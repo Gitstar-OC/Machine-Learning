@@ -160,7 +160,7 @@ Description of question
 
   - [Forward prop in single layer](Advanced%20Learning%20Algorithms/)
   - [General Implementation of Forward Propogation](Advanced%20Learning%20Algorithms/)
-  - `N` [Coffee Roasting NumPy](Jupyter%20Notebooks) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
+  - `N` [Coffee Roasting NumPy](Jupyter%20Notebooks/CoffeeRoastingNumpy.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 <!--
 
