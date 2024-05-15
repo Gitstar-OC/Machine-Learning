@@ -199,9 +199,9 @@ Description of question
 
 - ### Back Propogation (Optional)
 
-  - [What is a derivative?]()
-  - [Computation Graph]()
-  - [Larger Neural Network Example]()
+  - [What is a derivative?](Advanced%20Learning%20Algorithms/Back%20Propagation/)
+  - [Computation Graph](Advanced%20Learning%20Algorithms/Back%20Propagation/ComputationGraph.md)
+  - [Larger Neural Network Example](Advanced%20Learning%20Algorithms/Back%20Propagation/LargerNeuralNetworkExample.md)
   - `N` [Derivatives]()
   - `N` [Back Propogation]()
 
