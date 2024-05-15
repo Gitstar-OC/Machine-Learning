@@ -268,12 +268,12 @@ Description of question
 
 - ### Clustering
 
-  - [What is Clustering]()
-  - [K-means Intuition]()
-  - [K-means Algorithm]()
-  - [Optimization Objective]()
-  - [Initializing K-means]()
-  - [Choosing Numbers of clusters]()
+  - [What is Clustering](Unsupervised%20Learning/Clustering/WhatisClustering.md)
+  - [K-means Intuition](Unsupervised%20Learning/Clustering/KmeansIntuition.md)
+  - [K-means Algorithm](Unsupervised%20Learning/Clustering/KmeansAlgorithm.md)
+  - [Optimization Objective](Unsupervised%20Learning/Clustering/OptimizationObjective.md)
+  - [Initializing K-means](Unsupervised%20Learning/Clustering/InitializingKmeans.md)
+  - [Choosing Numbers of clusters](Unsupervised%20Learning/Clustering/ChoosingNumbersofClusters.md)
 
 - ### Anomaly Detection
 
