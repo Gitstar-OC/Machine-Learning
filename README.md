@@ -214,12 +214,12 @@ Description of question
 
 - ### Bias and Variance
 
-  - [Diagnosing Bias and Variance]()
-  - [Regularization and Bias/Variance]()
-  - [Establishing a baseline level of Performance]()
-  - [Learning Curves]()
-  - [Deciding what to try next revisited]()
-  - [Bias / Variance and Neural Networks]()
+  - [Diagnosing Bias and Variance](Advanced%20Learning%20Algorithms/Bias%20and%20Variance/DiagnosingBiasandVariance.md)
+  - [Regularization and Bias/Variance](Advanced%20Learning%20Algorithms/Bias%20and%20Variance/RegularizationandBiasVariance.md)
+  - [Establishing a baseline level of Performance](Advanced%20Learning%20Algorithms/Bias%20and%20Variance/EstablishingBaselineLevelofPerformance.md)
+  - [Learning Curves](Advanced%20Learning%20Algorithms/Bias%20and%20Variance/LearningCurves.md)
+  - [Deciding what to try next revisited](Advanced%20Learning%20Algorithms/Bias%20and%20Variance/DecidingWhattoTryNextRevisited.md)
+  - [Bias / Variance and Neural Networks](Advanced%20Learning%20Algorithms/Bias%20and%20Variance/BiasVarianceandNeuralNetworks.md)
   - `N` [Diagnosing Bias and Variance]()
 
 - ### Machine Learning Development Process
