@@ -238,8 +238,8 @@ Description of question
 
 - ### Decision Trees
 
-  - [Decision Tree Model]()
-  - [Learning Process]()
+  - [Decision Tree Model](Advanced%20Learning%20Algorithms/Decision%20Trees/DecisionTreeModel.md)
+  - [Learning Process](Advanced%20Learning%20Algorithms/Decision%20Trees/LearningProcess.md)
 
 - ### Decision Tree Learning
 
