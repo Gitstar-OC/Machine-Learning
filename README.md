@@ -177,9 +177,9 @@ Description of question
 
 - ### Activation Functions
 
-  - [Alternatives to the Sigmoid Activation]()
-  - [Choosing Activation Functions]()
-  - [Why do we need Activation Functions]()
+  - [Alternatives to the Sigmoid Activation](Advanced%20Learning%20Algorithms/Activation%20Functions/AlternativesTotheSigmoidActivation.md)
+  - [Choosing Activation Functions](Advanced%20Learning%20Algorithms/Activation%20Functions/ChoosingActivationFunctions.md)
+  - [Why do we need Activation Functions](Advanced%20Learning%20Algorithms/Activation%20Functions/WhydoWeNeedActivationFunctions.md)
   - `N` [ReLU Activation]()
 
 - ### Multiclass Classification
