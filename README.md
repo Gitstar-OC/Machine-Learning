@@ -15,11 +15,12 @@ Description of question
 
 ---
 -->
-> `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
+
+- `B` for Beginner, `I` for intermediate level and `A` for Advanced
 
 > `BN` for Easy Notebook, `IN` for Intermidiate, and `T` for Notebook Assignment to test what you have learned!!
 
-### Start with the basics
+## Start with the basics
 
 - `B` [Overview of Machine Learning](Basics/Overview.md)
 - `B` [Applications of Machine Learning](Basics/Applications.md)
@@ -67,7 +68,6 @@ Description of question
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
   - `BN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-
 - ###  Multiple Linear Regression
 
   - `B` [Multiple Features](Supervised%20Learning/Multiple%20Linear%20Regression/MultipleFeatures.md)
@@ -100,7 +100,6 @@ Description of question
   - `B` [Decision Boundary](Supervised%20Learning/Classification%20with%20Logistic%20Regression/DecisionBoundary.md)
   - `BN` [Decision Boundary](Jupyter%20Notebooks/DecisionBoundary.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-
 - ### Cost Function for Logistic Regression
 
   - `B` [Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/CostFunctionforLogisticRegression.md)
@@ -108,13 +107,11 @@ Description of question
   - `B` [Simplified Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/SimplifiedCostFunctionforLogisticRegression.md)
   - `IN` [Cost Function for Logistic Regression](Jupyter%20Notebooks/CostFunctionforLogisticRegression.ipynb)
 
-
 - ### Gradient Descent for Logistic Regression
 
   - `B` [Gradient Descent Implementation](Supervised%20Learning/Gradient%20Descent%20for%20Logistic%20Regression/GradientDescentImplementation.md)
   - `IN` [Gradient Descent for Logistic Regression](Jupyter%20Notebooks/GradientDescentforLogisticRegression.ipynb)
   - `BN` [Logistic Regression with Scikit-Learn](Jupyter%20Notebooks/LogisticRegressionwithScikit-Learn.ipynb)
-
 
 - ### The Problem of Overfitting
 
@@ -141,7 +138,6 @@ Description of question
   - `I` [Demand Prediction](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/DemandPrediction.md)
   - `B` [Recognizing Images](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/RecognizingImages.md)
 
-
 - ### Neural Network Model
 
   - `I` [Neural Network Layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/NeuralNetworkLayer.md)
@@ -162,11 +158,8 @@ Description of question
   - [General Implementation of Forward Propogation](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/GeneralImplementationofForwardPropagation.md)
   - `N` [Coffee Roasting NumPy](Jupyter%20Notebooks/CoffeeRoastingNumpy.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
-
-
 
 - ### Vectorization (Optional)
 
