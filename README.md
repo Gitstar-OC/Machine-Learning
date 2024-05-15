@@ -277,11 +277,11 @@ Description of question
 
 - ### Anomaly Detection
 
-  - [Finding Unusual Events]()
-  - [Gaussian (normal) distribution]()
-  - [Anomoly Detection Algoritm]()
-  - [Developing and Evaluating an Anomaly Detection System]()
-  - [Choosing What Features to Use]()
+  - [Finding Unusual Events](Unsupervised%20Learning/Anomaly%20Detection/FindingUnusualEvents.md)
+  - [Gaussian (normal) distribution](Unsupervised%20Learning/Anomaly%20Detection/GaussianNormalDistribution.md)
+  - [Anomoly Detection Algoritm](Unsupervised%20Learning/Anomaly%20Detection/AnomalyDetectionAlgorithm.md)
+  - [Developing and Evaluating an Anomaly Detection System](Unsupervised%20Learning/Anomaly%20Detection/DevelopingandEvaluatingAnomalyDetectionSystem.md)
+  - [Choosing What Features to Use](Unsupervised%20Learning/Anomaly%20Detection/ChoosingWhatFeaturestoUse.md)
 
 - ### Collaborative Filtering
 
