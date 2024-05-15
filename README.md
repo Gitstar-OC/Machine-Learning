@@ -253,11 +253,11 @@ Description of question
 
 - ### Tree Ensembles
 
-  - [Using Multiple Decison Trees]()
-  - [Sampling with Replacement]()
-  - [Random Forest Algorithm]()
-  - [XGBoost]()
-  - [When to Use Decision Trees]()
+  - [Using Multiple Decison Trees](Advanced%20Learning%20Algorithms/Tree%20Ensembles/UsingMultipleDecisionTrees.md)
+  - [Sampling with Replacement](Advanced%20Learning%20Algorithms/Tree%20Ensembles/SamplingwithReplacement.md)
+  - [Random Forest Algorithm](Advanced%20Learning%20Algorithms/Tree%20Ensembles/RandomForestAlgorithm.md)
+  - [XGBoost](Advanced%20Learning%20Algorithms/Tree%20Ensembles/XGBoost.md)
+  - [When to Use Decision Trees](Advanced%20Learning%20Algorithms/Tree%20Ensembles/WhentoHaveDecisionTrees.md)
   - `N` [Tree Ensebles]()
 
 ---
