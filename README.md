@@ -285,10 +285,10 @@ Description of question
 
 - ### Collaborative Filtering
 
-  - [Making Recommendations]()
-  - [Using Per-Item Features]()
-  - [Collaborative Filtering Algorithm]()
-  - [Binary Labels: Favs, Likes and clicks]()
+  - [Making Recommendations](Unsupervised%20Learning/Collaborative%20Filtering/MakingRecommendations.md)
+  - [Using Per-Item Features](Unsupervised%20Learning/Collaborative%20Filtering/UsingPerItemFeatures.md)
+  - [Collaborative Filtering Algorithm](Unsupervised%20Learning/Collaborative%20Filtering/CollaborativeFilteringAlgorithm.md)
+  - [Binary Labels: Favs, Likes and clicks](Unsupervised%20Learning/Collaborative%20Filtering/BinaryLabelsFavsLikesandClicks.md)
 
 - ### Recommender Systems Implementation Detail
 
