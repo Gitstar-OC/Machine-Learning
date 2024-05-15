@@ -1,45 +1,53 @@
 # Machine-Learning-Specialization ( In Progress...)
--  This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍. 
--  This are my machine learning notes that I have created in my learning journey of AI and Machine with the help of some top instructor from [Deep Learning AI](https://www.deeplearning.ai/), This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
 
---- 
+- This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍.
+
+- This are my machine learning notes that I have created in my learning journey of AI and Machine with the help of some top instructor from [Deep Learning AI](https://www.deeplearning.ai/), This will surely help beginners and intermidiate people to learn and understand machine learning. Feel free to clone, and fork 🍴.
+
+---
 <!--
 - #### I also have occasionally added questions like taught in classes  to help make sure you understand the content like this 🙂
 **Question:**
-Description of question 
-- Option A 
+Description of question
+- Option A
 - Option B
 >  <details><summary><b>Answer</b></summary> Solution will be given here, with some explaination in below lines</details>
 
 ---
 -->
->  `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
+> `B` for Beginner, `I` for intermediate level and `A` for Advanced!!
 
->  `BN` for Easy Notebook, `IN` for Intermidiate, and `T` for Notebook Assignment to test what you have learned!!
-
+> `BN` for Easy Notebook, `IN` for Intermidiate, and `T` for Notebook Assignment to test what you have learned!!
 
 ### Start with the basics
-- `B` [Overview of Machine Learning](Basics/Overview.md) 
+
+- `B` [Overview of Machine Learning](Basics/Overview.md)
 - `B` [Applications of Machine Learning](Basics/Applications.md)
 - `B` [What is machine learning](Basics/MachineLearning.md)
 
 ### Difference between supervised and unsupervised machine learning
+
 - `B` [Supervised Machine Learning Part 1](Supervised%20Learning/SupervisedLearning1.md)
 - `B` [Supervised Machine Learning Part 2](Supervised%20Learning/SupervisedLearning2.md)
 - `B` [Unsupervised Machine Learning Part 1](Unsupervised%20Machine%20Learning/UnsupervisedLearning1.md)
 - `B` [Unsupervised Machine Learning Part 2](Unsupervised%20Machine%20Learning/UnsupervisedLearning2.md)
 
 ### Jupyter Notebooks
-- Jupyter notebook is a type of `IDE` in machine learning which provides to many options to the developers to create and run the code. Check the below file to get started! 
-> **Note:** You should first clone the project and open it in your IDE or in jupyter notebook to understand it in depth. 
+
+- Jupyter notebook is a type of `IDE` in machine learning which provides to many options to the developers to create and run the code. Check the below file to get started!
+
+> **Note:** You should first clone the project and open it in your IDE or in jupyter notebook to understand it in depth.
+
 ### [Jupyter Notebook](Jupyter%20Notebooks/JupyterNotebook.md)
 
 - `N` [JupyterNotebook](Jupyter%20Notebooks/IntroductiontoJupyterNotebook.ipynb) (**Clone and Open it in your IDE**)
 
---- 
+---
 
 ## Superwised Machine Learning
+
 - ### Regression Model
+
   - `B` [Linear Regression Part 1](Supervised%20Learning/Regression%20Model/LinearRegressionP1.md)
   - `B` [Linear Regression Part 2](Supervised%20Learning/Regression%20Model/LinearRegressionP2.md)
   - `BN` [Linear Regression Model Representation](Jupyter%20Notebooks/ModelRepresentation.ipynb) (**Open it in your IDE like VS Code or Jupyter Notebook**)
@@ -49,259 +57,269 @@ Description of question
   - `B` [Visualization Examples](Supervised%20Learning/Regression%20Model/VisualizationExamples.md)
   - `BN` [Cost Function Model Representation](Jupyter%20Notebooks/CostFunctionVisualization.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-- ### Training Model with Gradient Descent 
+- ### Training Model with Gradient Descent
+
   - `B` [Gradient Descent](Supervised%20Learning/Gradient%20Descent/GradientDescent.md)
   - `B` [Implement Gradient Descent](Supervised%20Learning/Gradient%20Descent/ImplementGradientDescent.md)
-  - `B` [Gradient Descent Intuition ](Supervised%20Learning/Gradient%20Descent/GradientDescentIntuition.md)
+  - `B` [Gradient Descent Intuition](Supervised%20Learning/Gradient%20Descent/GradientDescentIntuition.md)
   - `B` [Learning Rate](Supervised%20Learning/Gradient%20Descent/LearningRate.md)
-  - `B` [Gradient Descent with Linear Regression ](Supervised%20Learning/Gradient%20Descent/GradientDescentLinearRegression.md)
+  - `B` [Gradient Descent with Linear Regression](Supervised%20Learning/Gradient%20Descent/GradientDescentLinearRegression.md)
   - `B` [Running Gradient Descent](Supervised%20Learning/Gradient%20Descent/RunningGradientDescent.md)
   - `BN` [Gradient Descent Representation](Jupyter%20Notebooks/GradientDescentRepresentaion.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 
 - ###  Multiple Linear Regression
+
   - `B` [Multiple Features](Supervised%20Learning/Multiple%20Linear%20Regression/MultipleFeatures.md)
   - `B` [Vectorization Part 1](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart1.md)
   - `B` [Vectorization Part 2](Supervised%20Learning/Multiple%20Linear%20Regression/VectorizationPart2.md)
   - `BN` [Python, Numphy and Vectorization](Jupyter%20Notebooks/PythonNumpyAndVectorization.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
-  - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md) 
+  - `B` [Gradient Descent for Multiple Linear Regression](Supervised%20Learning/Multiple%20Linear%20Regression/GradientDescentforMultipleLinearRegression.md)
   - `BN` [Multiple Variable Linear Regression](Jupyter%20Notebooks/MultipleLinearRegression.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
- 
+
 - ### Gradient Descent in Practice
-  - `B` [Feature Scaling Part 1](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart1.md) 
-  - `B` [Feature Scaling Part 2](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart2.md) 
-  - `B` [Checking Gradient Descent for Convergence](Supervised%20Learning/Gradient%20Descent%20in%20Practice/CheckingGradientDescentforConvergence.md) 
+
+  - `B` [Feature Scaling Part 1](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart1.md)
+  - `B` [Feature Scaling Part 2](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureScalingPart2.md)
+  - `B` [Checking Gradient Descent for Convergence](Supervised%20Learning/Gradient%20Descent%20in%20Practice/CheckingGradientDescentforConvergence.md)
   - `B` [Choosing the Learning Rate](Supervised%20Learning/Gradient%20Descent%20in%20Practice/ChoosingtheLearningRate.md)
   - `BN` [Feature Scaling and Learning Rate](Jupyter%20Notebooks/FeatureScalingAndLearningRate.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `B` [Feature Engineering](Supervised%20Learning/Gradient%20Descent%20in%20Practice/FeatureEngineering.md)
-  - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/PolynomialRegression.md) 
+  - `B` [Polynomial Regression](Supervised%20Learning/Gradient%20Descent%20in%20Practice/PolynomialRegression.md)
   - `BN` [Feature Engineering and Polynomial Regression](Jupyter%20Notebooks/FeatureEngineeringAndPolynomialRegression.ipynb)   (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `BN` [Linear Regression with scikit-learn](Jupyter%20Notebooks/LRwithScikitLearn.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 - `T` [Linear Regression Test Notebook/Lab](LinearRegressionTest.ipynb) (**Clone and Open it in your IDE, follow all the instructions given and write the solution code**)
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
 - ### Classification with Logistic Regression
-  - `B` [Classification](Supervised%20Learning/Classification%20with%20Logistic%20Regression/Motivations.md) 
+
+  - `B` [Classification](Supervised%20Learning/Classification%20with%20Logistic%20Regression/Motivations.md)
   - `BN` [Classification](Jupyter%20Notebooks/Classification.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
   - `B` [Logistic Regression](Supervised%20Learning/Classification%20with%20Logistic%20Regression/LogisticRegression.md)
   - `BN` [Sigmoid Function and Logistic Regression](Jupyter%20Notebooks/SigmoidFunction.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
-  - `B` [Decision Boundary](Supervised%20Learning/Classification%20with%20Logistic%20Regression/DecisionBoundary.md) 
+  - `B` [Decision Boundary](Supervised%20Learning/Classification%20with%20Logistic%20Regression/DecisionBoundary.md)
   - `BN` [Decision Boundary](Jupyter%20Notebooks/DecisionBoundary.ipynb)  (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 
-- ### Cost Function for Logistic Regression 
-  - `B` [Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/CostFunctionforLogisticRegression.md) 
-  - `BN` [Logistic Loss](Jupyter%20Notebooks/LogisticLoss.ipynb) 
-  - `B` [Simplified Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/SimplifiedCostFunctionforLogisticRegression.md) 
-  - `IN` [Cost Function for Logistic Regression](Jupyter%20Notebooks/CostFunctionforLogisticRegression.ipynb) 
+- ### Cost Function for Logistic Regression
+
+  - `B` [Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/CostFunctionforLogisticRegression.md)
+  - `BN` [Logistic Loss](Jupyter%20Notebooks/LogisticLoss.ipynb)
+  - `B` [Simplified Cost Function for Logistic Regression](Supervised%20Learning/Cost%20Function%20for%20Logistic%20Regression/SimplifiedCostFunctionforLogisticRegression.md)
+  - `IN` [Cost Function for Logistic Regression](Jupyter%20Notebooks/CostFunctionforLogisticRegression.ipynb)
 
 
-- ### Gradient Descent for Logistic Regression 
-  - `B` [Gradient Descent Implementation](Supervised%20Learning/Gradient%20Descent%20for%20Logistic%20Regression/GradientDescentImplementation.md) 
-  - `IN` [Gradient Descent for Logistic Regression](Jupyter%20Notebooks/GradientDescentforLogisticRegression.ipynb) 
-  - `BN` [Logistic Regression with Scikit-Learn](Jupyter%20Notebooks/LogisticRegressionwithScikit-Learn.ipynb) 
+- ### Gradient Descent for Logistic Regression
+
+  - `B` [Gradient Descent Implementation](Supervised%20Learning/Gradient%20Descent%20for%20Logistic%20Regression/GradientDescentImplementation.md)
+  - `IN` [Gradient Descent for Logistic Regression](Jupyter%20Notebooks/GradientDescentforLogisticRegression.ipynb)
+  - `BN` [Logistic Regression with Scikit-Learn](Jupyter%20Notebooks/LogisticRegressionwithScikit-Learn.ipynb)
 
 
-- ### The Problem of Overfitting 
-  - `B` [The Problem of Overfitting](Supervised%20Learning/The%20Problem%20of%20Overfitting/TheProblemofOverfitting.md) 
-  - `B` [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/AddressingOverfiting.md) 
-  - `BN` [Overfitting](Jupyter%20Notebooks/Overfitting.ipynb) 
-  - `B` [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/CostFunctionwithRegularization.md) 
-  - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md) 
+- ### The Problem of Overfitting
+
+  - `B` [The Problem of Overfitting](Supervised%20Learning/The%20Problem%20of%20Overfitting/TheProblemofOverfitting.md)
+  - `B` [Addressing Overfiting](Supervised%20Learning/The%20Problem%20of%20Overfitting/AddressingOverfiting.md)
+  - `BN` [Overfitting](Jupyter%20Notebooks/Overfitting.ipynb)
+  - `B` [Cost Function with Regularization](Supervised%20Learning/The%20Problem%20of%20Overfitting/CostFunctionwithRegularization.md)
+  - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md)
   - `I` [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `IN` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
 - `T` [Logistic Regression Test](Jupyter%20Notebooks/LogisticRegressionTest.ipynb)
+
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
---- 
+
+---
 
 ## Advanced Learning Algorithms
+
 - [Advanced Learning Algorithms](Advanced%20Learning%20Algorithms/Welcome.md) (For => What you will learn in this part)
 
 - ### Neural Network Intuition
+
   - `B` [Neurons and the Brain](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/NeuronsAndBrain.md)
   - `I` [Demand Prediction](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/DemandPrediction.md)
   - `B` [Recognizing Images](Advanced%20Learning%20Algorithms/Neural%20Network%20Intuition/RecognizingImages.md)
 
 
 - ### Neural Network Model
-  - `I` [Neural Network Layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/NeuralNetworkLayer.md) 
-  - `A` [More Complex Neural Networks](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/MoreComplexNeuralNetworks.md) 
-  - `A` [Inference: Making Predictions](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/InferenceMakingPredictions.md) 
+
+  - `I` [Neural Network Layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/NeuralNetworkLayer.md)
+  - `A` [More Complex Neural Networks](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/MoreComplexNeuralNetworks.md)
+  - `A` [Inference: Making Predictions](Advanced%20Learning%20Algorithms/Neural%20Network%20Model/InferenceMakingPredictions.md)
   - `IN` [Neurons and Layers](Jupyter%20Notebooks/NeuronsAndLayers.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 - ### TensorFlow Implementation
-  - `I` [Inference in Code](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/InferenceinCode.md) 
-  - `I` [Data in TensorFlow](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/DatainTensorFlow.md) 
+
+  - `I` [Inference in Code](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/InferenceinCode.md)
+  - `I` [Data in TensorFlow](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/DatainTensorFlow.md)
   - `I` [Building a Neural Network](Advanced%20Learning%20Algorithms/TensorFlow%20Implementation/BuildingaNeuralNetwork.md)
-  - `AN` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/CoffeeRoastingTensorFlow.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)  
+  - `AN` [Coffee Roasting in TensorFlow](Jupyter%20Notebooks/CoffeeRoastingTensorFlow.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
+- ### Neural Network Implementation in Python
 
-- ### Neural Network Implementation in Python 
-  - [Forward prop in single layer]() 
-  - [General Implementation of Forward Propogation]() 
+  - [Forward prop in single layer]()
+  - [General Implementation of Forward Propogation]()
   - `N` [Coffee Roasting NumPy]() (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-<!--  
+<!--
 
 - Speculations on Artificial General Intelligence (AGI)
-  - [Is there a path to AGI?]() 
+  - [Is there a path to AGI?]()
 
-- ### Vectorization (Optional) 
-  - [How Neural Network are Implemented Effciently]() 
-  - [Matrix Multiplication]() 
-  - [Matrix Multiplication Rules]() 
-  - [Matrix Multiplication Code]() 
+- ### Vectorization (Optional)
+  - [How Neural Network are Implemented Effciently]()
+  - [Matrix Multiplication]()
+  - [Matrix Multiplication Rules]()
+  - [Matrix Multiplication Code]()
 
-- ### Neural Network Training 
-  - [TensorFlow Implementation]() 
-  - [Training Details]() 
+- ### Neural Network Training
+  - [TensorFlow Implementation]()
+  - [Training Details]()
 
-- ### Activation Functions 
-  - [Alternatives to the Sigmoid Activation]() 
+- ### Activation Functions
+  - [Alternatives to the Sigmoid Activation]()
   - [Choosing Activation Functions]()
-  - [Why do we need Activation Functions]() 
-  - `N` [ReLU Activation]() 
+  - [Why do we need Activation Functions]()
+  - `N` [ReLU Activation]()
 
-- ### Multiclass Classification 
-  - [Multiclass]() 
-  - [Softmax]() 
-  - [Neural Network with Softmax output]() 
-  - [Improved Implementation of Softmax]() 
+- ### Multiclass Classification
+  - [Multiclass]()
+  - [Softmax]()
+  - [Neural Network with Softmax output]()
+  - [Improved Implementation of Softmax]()
   - [Classification with Multiple Outputs]() (Optional)
-  - `N` [Softmax]() 
-  - `N` [Multiclass]() 
+  - `N` [Softmax]()
+  - `N` [Multiclass]()
 
 - ### Additional Neural Network Concepts
-  - [Advanced Optimization]() 
-  - [Additional Layer Types]() 
+  - [Advanced Optimization]()
+  - [Additional Layer Types]()
 
-- ### Back Propogation (Optional) 
-  - [What is a derivative?]() 
-  - [Computation Graph]() 
-  - [Larger Neural Network Example]() 
-  - `N` [Derivatives]() 
-  - `N` [Back Propogation]() 
-  
-- ###  Advice for Applying Machine Learning 
-  - [Deciding What to try next]() 
-  - [Evaluating a Model]() 
-  - [Model Selection and Training / Cross Validatiion / Test Sets]() 
-  - `N` [Model Evaluation and Selection]() 
+- ### Back Propogation (Optional)
+  - [What is a derivative?]()
+  - [Computation Graph]()
+  - [Larger Neural Network Example]()
+  - `N` [Derivatives]()
+  - `N` [Back Propogation]()
 
-- ### Bias and Variance 
-  - [Diagnosing Bias and Variance]() 
-  - [Regularization and Bias/Variance]() 
-  - [Establishing a baseline level of Performance]() 
+- ###  Advice for Applying Machine Learning
+  - [Deciding What to try next]()
+  - [Evaluating a Model]()
+  - [Model Selection and Training / Cross Validatiion / Test Sets]()
+  - `N` [Model Evaluation and Selection]()
+
+- ### Bias and Variance
+  - [Diagnosing Bias and Variance]()
+  - [Regularization and Bias/Variance]()
+  - [Establishing a baseline level of Performance]()
   - [Learning Curves]()
-  - [Deciding what to try next revisited]() 
-  - [Bias / Variance and Neural Networks]() 
-  - `N` [Diagnosing Bias and Variance]() 
+  - [Deciding what to try next revisited]()
+  - [Bias / Variance and Neural Networks]()
+  - `N` [Diagnosing Bias and Variance]()
 
-- ### Machine Learning Development Process 
-  - [Iterative Loop of ML Development]() 
-  - [Error Analysis]() 
-  - [Adding Data]() 
-  - [Transfer Learning: Using Data from a Different Task]() 
-  - [Full Cycle of Machine Learning Project]() 
-  - [Fairness, Bias, and Ethics]() 
+- ### Machine Learning Development Process
+  - [Iterative Loop of ML Development]()
+  - [Error Analysis]()
+  - [Adding Data]()
+  - [Transfer Learning: Using Data from a Different Task]()
+  - [Full Cycle of Machine Learning Project]()
+  - [Fairness, Bias, and Ethics]()
 
-- ### Skewed Datasets (Optional) 
-  - [Error Metrics for Skewed Datasets]() 
-  - [Trading off precision and recall]() 
+- ### Skewed Datasets (Optional)
+  - [Error Metrics for Skewed Datasets]()
+  - [Trading off precision and recall]()
 
 - ### Decision Trees
-  - [Decision Tree Model]() 
-  - [Learning Process]() 
-  
-- ### Decision Tree Learning
-  - [Measuring Purity]() 
-  - [Choosing a Split: Information Gain]() 
-  - [Putting it Together]() 
-  - [Using One-hot Encoding of Categorial Features]() 
-  - [Continuous Valued Features]() 
-  - [Regression Trees]() (Optional) 
-  - `N` [Decision Trees]() 
+  - [Decision Tree Model]()
+  - [Learning Process]()
 
-  
-- ### Tree Ensembles 
-  - [Using Multiple Decison Trees]() 
-  - [Sampling with Replacement]() 
-  - [Random Forest Algorithm]() 
-  - [XGBoost]() 
+- ### Decision Tree Learning
+  - [Measuring Purity]()
+  - [Choosing a Split: Information Gain]()
+  - [Putting it Together]()
+  - [Using One-hot Encoding of Categorial Features]()
+  - [Continuous Valued Features]()
+  - [Regression Trees]() (Optional)
+  - `N` [Decision Trees]()
+
+- ### Tree Ensembles
+  - [Using Multiple Decison Trees]()
+  - [Sampling with Replacement]()
+  - [Random Forest Algorithm]()
+  - [XGBoost]()
   - [When to Use Decision Trees]()
   - `N` [Tree Ensebles]()
 
---- 
+---
 
 ## Unsupervised Machine Learning, Recommender Systems, Reinforcement Learning
 - [Unsupervised Machine Learning]() (For => What you will learn in this part)
 
 - ### Clustering
-  - [What is Clustering]() 
-  - [K-means Intuition]() 
-  - [K-means Algorithm]() 
+  - [What is Clustering]()
+  - [K-means Intuition]()
+  - [K-means Algorithm]()
   - [Optimization Objective]()
-  - [Initializing K-means]() 
-  - [Choosing Numbers of clusters]() 
+  - [Initializing K-means]()
+  - [Choosing Numbers of clusters]()
 
-- ### Anomaly Detection 
-  - [Finding Unusual Events]() 
-  - [Gaussian (normal) distribution]() 
-  - [Anomoly Detection Algoritm]() 
-  - [Developing and Evaluating an Anomaly Detection System]() 
-  - [Choosing What Features to Use]() 
+- ### Anomaly Detection
+  - [Finding Unusual Events]()
+  - [Gaussian (normal) distribution]()
+  - [Anomoly Detection Algoritm]()
+  - [Developing and Evaluating an Anomaly Detection System]()
+  - [Choosing What Features to Use]()
 
-- ### Collaborative Filtering 
-  - [Making Recommendations]() 
-  - [Using Per-Item Features]() 
-  - [Collaborative Filtering Algorithm]() 
-  - [Binary Labels: Favs, Likes and clicks]() 
+- ### Collaborative Filtering
+  - [Making Recommendations]()
+  - [Using Per-Item Features]()
+  - [Collaborative Filtering Algorithm]()
+  - [Binary Labels: Favs, Likes and clicks]()
 
-- ### Recommender Systems Implementation Detail 
-  - [Mean Normalization]() 
-  - [TensorFlow Implementation of Collaborative Filtering]() 
-  - [Finding Relatd Items]() 
+- ### Recommender Systems Implementation Detail
+  - [Mean Normalization]()
+  - [TensorFlow Implementation of Collaborative Filtering]()
+  - [Finding Relatd Items]()
 
-- ### Content - Based Filtering 
-  - [Collaborative Filtering vs Content-Based Filtering]() 
+- ### Content - Based Filtering
+  - [Collaborative Filtering vs Content-Based Filtering]()
   - [Deep Learning for Content-Based Filtering]()
-  - [Recommending from a Large Catalogue]() 
-  - [Ethical Use of Recommender Systems]() 
-  - [TensorFlow Implementations fo Content-Based Filtering]() 
+  - [Recommending from a Large Catalogue]()
+  - [Ethical Use of Recommender Systems]()
+  - [TensorFlow Implementations fo Content-Based Filtering]()
 
-- ### Principal Componenet Analysis (Optional) 
+- ### Principal Componenet Analysis (Optional)
   - [Reducing Number of Features]()
   - [PCA algoritm]()
-  - [PCA in Code]() 
+  - [PCA in Code]()
   - `N` [PCA and Data Visualization]()
 
-- ### Reinforcement Learning Introduction 
-  - [What is Reinforcement Learning?]() 
-  - [Mars Rover Example]() 
-  - [The Return in Reinforcement Learning]() 
-  - [Making Decisions: Policies in Reinforcement Learning]() 
-  - [Review of Key Concepts]() 
+- ### Reinforcement Learning Introduction
+  - [What is Reinforcement Learning?]()
+  - [Mars Rover Example]()
+  - [The Return in Reinforcement Learning]()
+  - [Making Decisions: Policies in Reinforcement Learning]()
+  - [Review of Key Concepts]()
 
-- ### State - Action Value Function 
-  - [State-action Value Function Definition]() 
-  - [State-action Value Function Example]() 
-  - `N` [State-action Value Function]() 
-  - [Bellman Equation]() 
-  - [Random (stochastic) Environment]() (Optional) 
-  
+- ### State - Action Value Function
+  - [State-action Value Function Definition]()
+  - [State-action Value Function Example]()
+  - `N` [State-action Value Function]()
+  - [Bellman Equation]()
+  - [Random (stochastic) Environment]() (Optional)
 
-- ### Continuous State Spaces 
+- ### Continuous State Spaces
   - [Example of Continuous State Space Applications]()
-  - [Lunar Lander]() 
-  - [Learning the State-value Function]() 
+  - [Lunar Lander]()
+  - [Learning the State-value Function]()
   - [Algorithm Refinement: Improved Neural Network Architecture]()
-  - [Algorithm Refinement: E- Greedy Policy]() 
+  - [Algorithm Refinement: E- Greedy Policy]()
   - [Algorithm Refinement: Mini-Batch and Soft Updates]() (Optional)
-  - [The State of Reinforcement Learning]() 
-
+  - [The State of Reinforcement Learning]()
 
   Welldone Champ
  # Give it a ⭐ if you liked this!
---> 
+-->
 
 !! Most of the notes credit of this note goes to the **great man and teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
