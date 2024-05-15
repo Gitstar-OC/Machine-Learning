@@ -306,9 +306,9 @@ Description of question
 
 - ### Principal Componenet Analysis (Optional)
 
-  - [Reducing Number of Features]()
-  - [PCA algoritm]()
-  - [PCA in Code]()
+  - [Reducing Number of Features](Unsupervised%20Learning/Principal%20Component%20Analysis/ReducingNumberofFeatures.md)
+  - [PCA algoritm](Unsupervised%20Learning/Principal%20Component%20Analysis/PCAAlgorithm.md)
+  - [PCA in Code](Unsupervised%20Learning/Principal%20Component%20Analysis/PCAinCode.md)
   - `N` [PCA and Data Visualization]()
 
 - ### Reinforcement Learning Introduction
