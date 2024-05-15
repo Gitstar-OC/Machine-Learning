@@ -292,9 +292,9 @@ Description of question
 
 - ### Recommender Systems Implementation Detail
 
-  - [Mean Normalization]()
-  - [TensorFlow Implementation of Collaborative Filtering]()
-  - [Finding Relatd Items]()
+  - [Mean Normalization](Unsupervised%20Learning/Recommender%20Systems%20Implementation/FindingRelatedItems.md)
+  - [TensorFlow Implementation of Collaborative Filtering](Unsupervised%20Learning/Recommender%20Systems%20Implementation/TensorFlowImplementationofCollaborativeFiltering.md)
+  - [Finding Relatd Items](Unsupervised%20Learning/Recommender%20Systems%20Implementation/FindingRelatedItems.md)
 
 - ### Content - Based Filtering
 
