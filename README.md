@@ -184,11 +184,11 @@ Description of question
 
 - ### Multiclass Classification
 
-  - [Multiclass]()
-  - [Softmax]()
-  - [Neural Network with Softmax output]()
-  - [Improved Implementation of Softmax]()
-  - [Classification with Multiple Outputs]() (Optional)
+  - [Multiclass](Advanced%20Learning%20Algorithms/Multiclass%20Classification/Multiclass.md)
+  - [Softmax](Advanced%20Learning%20Algorithms/Multiclass%20Classification/Softmax.md)
+  - [Neural Network with Softmax output](Advanced%20Learning%20Algorithms/Multiclass%20Classification/NeuralNetworkwithSoftmaxoutput.md)
+  - [Improved Implementation of Softmax](Advanced%20Learning%20Algorithms/Multiclass%20Classification/ImprovedImplementationofSoftmax.md)
+  - [Classification with Multiple Outputs](Advanced%20Learning%20Algorithms/Multiclass%20Classification/ClassificationwithMultipleOutputs.md) (Optional)
   - `N` [Softmax]()
   - `N` [Multiclass]()
 
