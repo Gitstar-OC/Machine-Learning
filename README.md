@@ -194,8 +194,8 @@ Description of question
 
 - ### Additional Neural Network Concepts
 
-  - [Advanced Optimization]()
-  - [Additional Layer Types]()
+  - [Advanced Optimization](Advanced%20Learning%20Algorithms/Additional%20Neural%20Network%20Concepts/AdvancedOptimization.md)
+  - [Additional Layer Types](Advanced%20Learning%20Algorithms/Additional%20Neural%20Network%20Concepts/AdditionalLayerTypes.md)
 
 - ### Back Propogation (Optional)
 
