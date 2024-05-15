@@ -243,12 +243,12 @@ Description of question
 
 - ### Decision Tree Learning
 
-  - [Measuring Purity]()
-  - [Choosing a Split: Information Gain]()
-  - [Putting it Together]()
-  - [Using One-hot Encoding of Categorial Features]()
-  - [Continuous Valued Features]()
-  - [Regression Trees]() (Optional)
+  - [Measuring Purity](Advanced%20Learning%20Algorithms/Decision%20Tree%20Learning/MeasuringPurity.md)
+  - [Choosing a Split: Information Gain](Advanced%20Learning%20Algorithms/Decision%20Tree%20Learning/ChoosingaSplitInformationGain.md)
+  - [Putting it Together](Advanced%20Learning%20Algorithms/Decision%20Tree%20Learning/PuttingitTogether.md)
+  - [Using One-hot Encoding of Categorial Features](Advanced%20Learning%20Algorithms/Decision%20Tree%20Learning/UsingOneHotEncodingofCategoricalFeatures.md)
+  - [Continuous Valued Features](Advanced%20Learning%20Algorithms/Decision%20Tree%20Learning/ContinuousValuedFeatures.md)
+  - [Regression Trees](Advanced%20Learning%20Algorithms/Decision%20Tree%20Learning/RegressionTrees.md) (Optional)
   - `N` [Decision Trees]()
 
 - ### Tree Ensembles
