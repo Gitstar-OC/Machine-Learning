@@ -168,12 +168,12 @@ Description of question
   - [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
   - [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
 
-<!--
+
 
 - ### Neural Network Training
 
-  - [TensorFlow Implementation]()
-  - [Training Details]()
+  - [TensorFlow Implementation](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TensorFlowImplementation.md)
+  - [Training Details](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TrainingDetails.md)
 
 - ### Activation Functions
 
@@ -261,7 +261,7 @@ Description of question
   - `N` [Tree Ensebles]()
 
 ---
-
+<!--
 ## Unsupervised Machine Learning, Recommender Systems, Reinforcement Learning
 
 - [Unsupervised Machine Learning]() (For => What you will learn in this part)
