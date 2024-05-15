@@ -168,22 +168,26 @@ Description of question
   - [Is there a path to AGI?]()
 
 - ### Vectorization (Optional)
+
   - [How Neural Network are Implemented Effciently]()
   - [Matrix Multiplication]()
   - [Matrix Multiplication Rules]()
   - [Matrix Multiplication Code]()
 
 - ### Neural Network Training
+
   - [TensorFlow Implementation]()
   - [Training Details]()
 
 - ### Activation Functions
+
   - [Alternatives to the Sigmoid Activation]()
   - [Choosing Activation Functions]()
   - [Why do we need Activation Functions]()
   - `N` [ReLU Activation]()
 
 - ### Multiclass Classification
+
   - [Multiclass]()
   - [Softmax]()
   - [Neural Network with Softmax output]()
@@ -193,10 +197,12 @@ Description of question
   - `N` [Multiclass]()
 
 - ### Additional Neural Network Concepts
+
   - [Advanced Optimization]()
   - [Additional Layer Types]()
 
 - ### Back Propogation (Optional)
+
   - [What is a derivative?]()
   - [Computation Graph]()
   - [Larger Neural Network Example]()
@@ -204,12 +210,14 @@ Description of question
   - `N` [Back Propogation]()
 
 - ###  Advice for Applying Machine Learning
+
   - [Deciding What to try next]()
   - [Evaluating a Model]()
   - [Model Selection and Training / Cross Validatiion / Test Sets]()
   - `N` [Model Evaluation and Selection]()
 
 - ### Bias and Variance
+
   - [Diagnosing Bias and Variance]()
   - [Regularization and Bias/Variance]()
   - [Establishing a baseline level of Performance]()
@@ -219,6 +227,7 @@ Description of question
   - `N` [Diagnosing Bias and Variance]()
 
 - ### Machine Learning Development Process
+
   - [Iterative Loop of ML Development]()
   - [Error Analysis]()
   - [Adding Data]()
@@ -227,14 +236,17 @@ Description of question
   - [Fairness, Bias, and Ethics]()
 
 - ### Skewed Datasets (Optional)
+
   - [Error Metrics for Skewed Datasets]()
   - [Trading off precision and recall]()
 
 - ### Decision Trees
+
   - [Decision Tree Model]()
   - [Learning Process]()
 
 - ### Decision Tree Learning
+
   - [Measuring Purity]()
   - [Choosing a Split: Information Gain]()
   - [Putting it Together]()
@@ -244,6 +256,7 @@ Description of question
   - `N` [Decision Trees]()
 
 - ### Tree Ensembles
+
   - [Using Multiple Decison Trees]()
   - [Sampling with Replacement]()
   - [Random Forest Algorithm]()
@@ -254,9 +267,11 @@ Description of question
 ---
 
 ## Unsupervised Machine Learning, Recommender Systems, Reinforcement Learning
+
 - [Unsupervised Machine Learning]() (For => What you will learn in this part)
 
 - ### Clustering
+
   - [What is Clustering]()
   - [K-means Intuition]()
   - [K-means Algorithm]()
@@ -265,6 +280,7 @@ Description of question
   - [Choosing Numbers of clusters]()
 
 - ### Anomaly Detection
+
   - [Finding Unusual Events]()
   - [Gaussian (normal) distribution]()
   - [Anomoly Detection Algoritm]()
@@ -272,17 +288,20 @@ Description of question
   - [Choosing What Features to Use]()
 
 - ### Collaborative Filtering
+
   - [Making Recommendations]()
   - [Using Per-Item Features]()
   - [Collaborative Filtering Algorithm]()
   - [Binary Labels: Favs, Likes and clicks]()
 
 - ### Recommender Systems Implementation Detail
+
   - [Mean Normalization]()
   - [TensorFlow Implementation of Collaborative Filtering]()
   - [Finding Relatd Items]()
 
 - ### Content - Based Filtering
+
   - [Collaborative Filtering vs Content-Based Filtering]()
   - [Deep Learning for Content-Based Filtering]()
   - [Recommending from a Large Catalogue]()
@@ -290,12 +309,14 @@ Description of question
   - [TensorFlow Implementations fo Content-Based Filtering]()
 
 - ### Principal Componenet Analysis (Optional)
+
   - [Reducing Number of Features]()
   - [PCA algoritm]()
   - [PCA in Code]()
   - `N` [PCA and Data Visualization]()
 
 - ### Reinforcement Learning Introduction
+
   - [What is Reinforcement Learning?]()
   - [Mars Rover Example]()
   - [The Return in Reinforcement Learning]()
@@ -303,6 +324,7 @@ Description of question
   - [Review of Key Concepts]()
 
 - ### State - Action Value Function
+
   - [State-action Value Function Definition]()
   - [State-action Value Function Example]()
   - `N` [State-action Value Function]()
@@ -310,6 +332,7 @@ Description of question
   - [Random (stochastic) Environment]() (Optional)
 
 - ### Continuous State Spaces
+
   - [Example of Continuous State Space Applications]()
   - [Lunar Lander]()
   - [Learning the State-value Function]()
