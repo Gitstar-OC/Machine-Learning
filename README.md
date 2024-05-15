@@ -224,12 +224,12 @@ Description of question
 
 - ### Machine Learning Development Process
 
-  - [Iterative Loop of ML Development]()
-  - [Error Analysis]()
-  - [Adding Data]()
-  - [Transfer Learning: Using Data from a Different Task]()
-  - [Full Cycle of Machine Learning Project]()
-  - [Fairness, Bias, and Ethics]()
+  - [Iterative Loop of ML Development](Advanced%20Learning%20Algorithms/Machine%20Learning%20Development%20Process/IterativeLoopofMLDevelopment.md)
+  - [Error Analysis](Advanced%20Learning%20Algorithms/Machine%20Learning%20Development%20Process/ErrorAnalysis.md)
+  - [Adding Data](Advanced%20Learning%20Algorithms/Machine%20Learning%20Development%20Process/AddingData.md)
+  - [Transfer Learning: Using Data from a Different Task](Advanced%20Learning%20Algorithms/Machine%20Learning%20Development%20Process/TransferLearningUsingDatafromaDifferentTask.md)
+  - [Full Cycle of Machine Learning Project](Advanced%20Learning%20Algorithms/Machine%20Learning%20Development%20Process/FullCycleofMachineLearningProject.md)
+  - [Fairness, Bias, and Ethics](Advanced%20Learning%20Algorithms/Machine%20Learning%20Development%20Process/FairnessBiasandEthics.md)
 
 - ### Skewed Datasets (Optional)
 
