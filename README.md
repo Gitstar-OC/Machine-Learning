@@ -233,8 +233,8 @@ Description of question
 
 - ### Skewed Datasets (Optional)
 
-  - [Error Metrics for Skewed Datasets]()
-  - [Trading off precision and recall]()
+  - [Error Metrics for Skewed Datasets](Advanced%20Learning%20Algorithms/Skewed%20Datasets/ErrorMetricsforSkewedDatasets.md)
+  - [Trading off precision and recall](Advanced%20Learning%20Algorithms/Skewed%20Datasets/TradingoffPrecisionandRecall.md)
 
 - ### Decision Trees
 
