@@ -261,10 +261,10 @@ Description of question
   - `N` [Tree Ensebles]()
 
 ---
-<!--
+
 ## Unsupervised Machine Learning, Recommender Systems, Reinforcement Learning
 
-- [Unsupervised Machine Learning]() (For => What you will learn in this part)
+- [Unsupervised Machine Learning](Unsupervised%20Learning/Welcome.md) (For => What you will learn in this part)
 
 - ### Clustering
 
@@ -337,6 +337,7 @@ Description of question
   - [Algorithm Refinement: Mini-Batch and Soft Updates]() (Optional)
   - [The State of Reinforcement Learning]()
 
+<!--
   Welldone Champ
  # Give it a ⭐ if you liked this!
 -->
