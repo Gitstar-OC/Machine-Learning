@@ -298,11 +298,11 @@ Description of question
 
 - ### Content - Based Filtering
 
-  - [Collaborative Filtering vs Content-Based Filtering]()
-  - [Deep Learning for Content-Based Filtering]()
-  - [Recommending from a Large Catalogue]()
-  - [Ethical Use of Recommender Systems]()
-  - [TensorFlow Implementations fo Content-Based Filtering]()
+  - [Collaborative Filtering vs Content-Based Filtering](Unsupervised%20Learning/Content-Based%20Filtering/CollaborativeFilteringvsContent-BasedFiltering.md)
+  - [Deep Learning for Content-Based Filtering](Unsupervised%20Learning/Content-Based%20Filtering/DeepLearningforContent-BasedFiltering.md)
+  - [Recommending from a Large Catalogue](Unsupervised%20Learning/Content-Based%20Filtering/RecommendingfromaLargeCatalogue.md)
+  - [Ethical Use of Recommender Systems](Unsupervised%20Learning/Content-Based%20Filtering/EthicalUseofRecommenderSystems.md)
+  - [TensorFlow Implementations fo Content-Based Filtering](Unsupervised%20Learning/Content-Based%20Filtering/TensorFlowImplementationsfoContent-BasedFiltering.md)
 
 - ### Principal Componenet Analysis (Optional)
 
