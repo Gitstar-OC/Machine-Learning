@@ -161,6 +161,7 @@ Description of question
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
 
+<!--
 - ### Vectorization (Optional)
 
   - [How Neural Network are Implemented Effciently](Advanced%20Learning%20Algorithms/Vectorization/HowNeuralNetworksareImplementedEfficiently.md)
@@ -329,7 +330,7 @@ Description of question
 
 - ### Continuous State Spaces
 
-  - [Example of Continuous State Space Applications](Unsupervised%20Learning/Continuous%20State%20Spaces/ExampleofContinuousStateSpaceApplications.md)
+  - [Example of Continuous State Space Applications](Unsupervised%20Learning/Continuous%20State%20Spaces/exa)
   - [Lunar Lander](Unsupervised%20Learning/Continuous%20State%20Spaces/LunarLander.md)
   - [Learning the State-value Function](Unsupervised%20Learning/Continuous%20State%20Spaces/LearningtheStatevalueFunction.md)
   - [Algorithm Refinement: Improved Neural Network Architecture](Unsupervised%20Learning/Continuous%20State%20Spaces/AlgorithmRefinementImprovedNeuralNetworkArchitecture.md)
@@ -337,7 +338,7 @@ Description of question
   - [Algorithm Refinement: Mini-Batch and Soft Updates](Unsupervised%20Learning/Continuous%20State%20Spaces/AlgorithmRefinementMiniBatchandSoftUpdates.md) (Optional)
   - [The State of Reinforcement Learning](Unsupervised%20Learning/Continuous%20State%20Spaces/TheStateofReinforcementLearning.md)
 
-<!--
+
   Welldone Champ
  # Give it a ⭐ if you liked this!
 -->
