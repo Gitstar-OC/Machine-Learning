@@ -207,9 +207,9 @@ Description of question
 
 - ###  Advice for Applying Machine Learning
 
-  - [Deciding What to try next]()
-  - [Evaluating a Model]()
-  - [Model Selection and Training / Cross Validatiion / Test Sets]()
+  - [Deciding What to try next](Advanced%20Learning%20Algorithms/Advice%20for%20Applying%20Machine%20Learning/DecidingWhattoTryNext.md)
+  - [Evaluating a Model](Advanced%20Learning%20Algorithms/Advice%20for%20Applying%20Machine%20Learning/EvaluatingaModel.md)
+  - [Model Selection and Training / Cross Validatiion / Test Sets](Advanced%20Learning%20Algorithms/Advice%20for%20Applying%20Machine%20Learning/ModelSelectionAndTrainingCVTS.md)
   - `N` [Model Evaluation and Selection]()
 
 - ### Bias and Variance
