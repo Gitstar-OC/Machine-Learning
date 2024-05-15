@@ -166,14 +166,16 @@ Description of question
 - Speculations on Artificial General Intelligence (AGI)
   - [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
 
-<!--
+
 
 - ### Vectorization (Optional)
 
-  - [How Neural Network are Implemented Effciently]()
-  - [Matrix Multiplication]()
-  - [Matrix Multiplication Rules]()
-  - [Matrix Multiplication Code]()
+  - [How Neural Network are Implemented Effciently](Advanced%20Learning%20Algorithms/Vectorization/HowNeuralNetworksareImplementedEfficiently.md)
+  - [Matrix Multiplication](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplication.md)
+  - [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
+  - [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
+
+<!--
 
 - ### Neural Network Training
 
