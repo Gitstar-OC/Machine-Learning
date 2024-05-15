@@ -162,10 +162,11 @@ Description of question
   - [General Implementation of Forward Propogation](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/GeneralImplementationofForwardPropagation.md)
   - `N` [Coffee Roasting NumPy](Jupyter%20Notebooks/CoffeeRoastingNumpy.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-<!--
 
 - Speculations on Artificial General Intelligence (AGI)
-  - [Is there a path to AGI?]()
+  - [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
+
+<!--
 
 - ### Vectorization (Optional)
 
