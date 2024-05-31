@@ -9,3 +9,13 @@ Next let's go on to compute a1_2, which again by the convention I described here
 Now, you've computed these three values, a1_1, a1_2, and a1_3, and we like to take these three numbers and group them together into an array to give you a1 up here, which is the output of the first layer. And so you do that by grouping them together using a np array as follows, so now you've computed a_1, let's implement the second layer as well. So you compute, the output a2, so a2 is computed using this expression and so we would have parameters w2_1 and b2_1 corresponding to these parameters. And then you would compute z as the dot product between w2_1 and a1, and add b2_1 and then apply the sigmoid function to get a2_1 and that's it, that's how you implement forward prop using just python and np. Now, there are a lot of expressions in this page of code that you just saw, let's in the next video look at how you can simplify this to implement forward prop for a more general neural network, rather than hard coding it for every single neuron like we just did. So let's go see that in the next video.
 
 ​
+![FPSL 1](./../../Assets/Algorithms/NNIP/FPSL%20(1).png)
+![FPSL 2](./../../Assets/Algorithms/NNIP/FPSL%20(2).png)
+![FPSL 3](./../../Assets/Algorithms/NNIP/FPSL%20(3).png)
+![FPSL 4](./../../Assets/Algorithms/NNIP/FPSL%20(4).png)
+![FPSL 5](./../../Assets/Algorithms/NNIP/FPSL%20(5).png)
+![FPSL 6](./../../Assets/Algorithms/NNIP/FPSL%20(6).png)
+![FPSL 7](./../../Assets/Algorithms/NNIP/FPSL%20(7).png)
+![FPSL 8](./../../Assets/Algorithms/NNIP/FPSL%20(8).png)
+![FPSL 9](./../../Assets/Algorithms/NNIP/FPSL%20(9).png)
+![FPSL 10](./../../Assets/Algorithms/NNIP/FPSL%20(10).png)
