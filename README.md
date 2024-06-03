@@ -161,7 +161,7 @@ Description of question
 > Note: The other files which are under development are commented, you can see the code in side it!
 
 - Speculations on Artificial General Intelligence (AGI)
-  - [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
+  - `B` [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
 
 <!--
 - ### Vectorization (Optional)
