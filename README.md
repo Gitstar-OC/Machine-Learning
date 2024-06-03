@@ -154,8 +154,8 @@ Description of question
 
 - ### Neural Network Implementation in Python
 
-  - [Forward prop in single layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/ForwardPropinSingleLayer.md)
-  - [General Implementation of Forward Propogation](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/GeneralImplementationofForwardPropagation.md)
+  - `I` [Forward prop in single layer](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/ForwardPropinSingleLayer.md)
+  - `A` [General Implementation of Forward Propogation](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/GeneralImplementationofForwardPropagation.md)
   - `IN` [Coffee Roasting NumPy](Jupyter%20Notebooks/CoffeeRoastingNumpy.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
 > Note: The other files which are under development are commented, you can see the code in side it!
