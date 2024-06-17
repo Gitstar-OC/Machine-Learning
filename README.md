@@ -163,7 +163,7 @@ Description of question
 - Speculations on Artificial General Intelligence (AGI)
   - `B` [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
 
-<!--
+
 - ### Vectorization (Optional)
 
   - [How Neural Network are Implemented Effciently](Advanced%20Learning%20Algorithms/Vectorization/HowNeuralNetworksareImplementedEfficiently.md)
@@ -171,7 +171,7 @@ Description of question
   - [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
   - [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
 
-
+<!--
 - ### Neural Network Training
 
   - [TensorFlow Implementation](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TensorFlowImplementation.md)
