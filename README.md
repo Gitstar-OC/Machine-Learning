@@ -171,7 +171,7 @@ Description of question
   - [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
   - [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
 
-<!--
+
 - ### Neural Network Training
 
   - [TensorFlow Implementation](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TensorFlowImplementation.md)
@@ -342,6 +342,7 @@ Description of question
 
   Welldone Champ
  # Give it a ⭐ if you liked this!
+ <!--
 -->
 
 ## Maths for Machine Learning
