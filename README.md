@@ -340,10 +340,7 @@ Description of question
   - [The State of Reinforcement Learning](Unsupervised%20Learning/Continuous%20State%20Spaces/TheStateofReinforcementLearning.md)
 
 
-  Welldone Champ
- # Give it a ⭐ if you liked this!
- <!--
--->
+
 
 ## Maths for Machine Learning
 
@@ -355,5 +352,10 @@ Description of question
 
 !! Most of the notes credit of this note goes to the **great man and teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
 
+
+  Welldone Champ
+ # Give it a ⭐ if you liked this!
+ <!--
+-->
 
 
