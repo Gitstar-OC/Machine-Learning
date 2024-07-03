@@ -163,7 +163,7 @@ Description of question
 - Speculations on Artificial General Intelligence (AGI)
   - `B` [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
 
-<!--
+
 - ### Vectorization (Optional)
 
   - [How Neural Network are Implemented Effciently](Advanced%20Learning%20Algorithms/Vectorization/HowNeuralNetworksareImplementedEfficiently.md)
@@ -171,6 +171,7 @@ Description of question
   - [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
   - [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
 
+<!--
 
 - ### Neural Network Training
 
@@ -340,18 +341,22 @@ Description of question
   - [The State of Reinforcement Learning](Unsupervised%20Learning/Continuous%20State%20Spaces/TheStateofReinforcementLearning.md)
 
 
-  Welldone Champ
- # Give it a ⭐ if you liked this!
--->
+
 
 ## Maths for Machine Learning
 
 - ### Linear Algebra for Machine Learning and Data Science
   - `B` [Introduction to Numpy Arrays](Mathematics/IntroductionToNumpyArrays.ipynb)
   - `B` [Linear Systems as Matrices](Mathematics/LinearSystemsOnMatrices.ipynb)
+  - `B` 
 
 
 !! Most of the notes credit of this note goes to the **great man and teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
 
+
+  Welldone Champ
+ # Give it a ⭐ if you liked this!
+ <!--
+-->
 
 
