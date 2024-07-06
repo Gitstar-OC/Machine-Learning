@@ -122,7 +122,8 @@ Description of question
   - `I` [Regularized Linear Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLinearRegression.md)
   - `I` [Regularized Logistic Regression](Supervised%20Learning/The%20Problem%20of%20Overfitting/RegularizedLogisticRegression.md)
   - `IN` [Regularization](Jupyter%20Notebooks/Regularization.ipynb)
-- `T` [Logistic Regression Test](Jupyter%20Notebooks/LogisticRegressionTest.ipynb)
+
+- ### `T` [Logistic Regression Test](Jupyter%20Notebooks/LogisticRegressionTest.ipynb)
 
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
@@ -158,18 +159,21 @@ Description of question
   - `A` [General Implementation of Forward Propogation](Advanced%20Learning%20Algorithms/Neural%20Network%20Implementation%20in%20Python/GeneralImplementationofForwardPropagation.md)
   - `IN` [Coffee Roasting NumPy](Jupyter%20Notebooks/CoffeeRoastingNumpy.ipynb) (**Open it in your IDE and run the whole code by _Shift+Enter_**)
 
-> Note: The other files which are under development are commented, you can see the code in side it!
-
 - Speculations on Artificial General Intelligence (AGI)
   - `B` [Is there a path to AGI?](Advanced%20Learning%20Algorithms/IsThereAPathToAGI.md)
 
-
 - ### Vectorization (Optional)
 
-  - [How Neural Network are Implemented Effciently](Advanced%20Learning%20Algorithms/Vectorization/HowNeuralNetworksareImplementedEfficiently.md)
-  - [Matrix Multiplication](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplication.md)
-  - [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
-  - [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
+  - `O` [How Neural Network are Implemented Effciently](Advanced%20Learning%20Algorithms/Vectorization/HowNeuralNetworksareImplementedEfficiently.md)
+  - `O` [Matrix Multiplication](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplication.md)
+  - `O` [Matrix Multiplication Rules](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationRules.md)
+  - `O` [Matrix Multiplication Code](Advanced%20Learning%20Algorithms/Vectorization/MatrixMultiplicationCode.md)
+
+- ### `T` [Neural Networks for Binary Classification Test](Jupyter%20Notebooks/NeuralNetworksforBinaryClassificationTest.ipynb)
+
+- > Don't take any pressure of it, hints and solution are given in the notebook as well
+
+> Note: The other files which are under development are commented, you can see the code in side it!
 
 <!--
 
@@ -340,9 +344,6 @@ Description of question
   - [Algorithm Refinement: Mini-Batch and Soft Updates](Unsupervised%20Learning/Continuous%20State%20Spaces/AlgorithmRefinementMiniBatchandSoftUpdates.md) (Optional)
   - [The State of Reinforcement Learning](Unsupervised%20Learning/Continuous%20State%20Spaces/TheStateofReinforcementLearning.md)
 
-
-
-
 ## Maths for Machine Learning
 
 - ### Linear Algebra for Machine Learning and Data Science
@@ -350,13 +351,9 @@ Description of question
   - `B` [Linear Systems as Matrices](Mathematics/LinearSystemsOnMatrices.ipynb)
   - `B` 
 
-
 !! Most of the notes credit of this note goes to the **great man and teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
-
 
   Welldone Champ
  # Give it a ⭐ if you liked this!
  <!--
 -->
-
-
