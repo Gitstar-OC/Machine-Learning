@@ -16,7 +16,7 @@ Description of question
 ---
 -->
 
-- `B` for Beginner, `I` for intermediate level and `A` for Advanced
+- `B` for Beginner, `I` for intermediate level, `A` for Advanced and `O` for optional
 
 > `BN` for Easy Notebook, `IN` for Intermidiate, and `T` for Notebook Assignment to test what you have learned!!
 
