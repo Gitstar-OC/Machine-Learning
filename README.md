@@ -1,3 +1,5 @@
+![Project Logo](https://github.com/Gitstar-OC/Machine-Learning/blob/master/Machine-Learning.png)
+
 # Machine-Learning-Specialization ( In Progress...)
 
 - This course is beginner friendly along with some tough challenges for intermidiate engineers in machines. Don't worry if you dont know python! Just give this a try 😄👍.
