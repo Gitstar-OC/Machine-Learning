@@ -1,4 +1,4 @@
-![Project Logo](https://github.com/Gitstar-OC/Machine-Learning/Assets/Preview.png)
+![Project Logo](https://github.com/Gitstar-OC/Machine-Learning/blob/main/Assets/Preview.png)
 
 # Machine-Learning-Specialization ( In Progress...)
 
