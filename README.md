@@ -175,14 +175,15 @@ Description of question
 
 - > Don't take any pressure of it, hints and solution are given in the notebook as well
 
-> Note: The other files which are under development are commented, you can see the code in side it!
-
-<!--
 
 - ### Neural Network Training
 
   - [TensorFlow Implementation](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TensorFlowImplementation.md)
   - [Training Details](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TrainingDetails.md)
+
+> Note: The other files which are under development are commented, you can see the code in side it!
+
+<!--
 
 - ### Activation Functions
 
