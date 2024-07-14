@@ -182,7 +182,7 @@ Description of question
   - [TensorFlow Implementation](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TensorFlowImplementation.md)
   - [Training Details](Advanced%20Learning%20Algorithms/Neural%20Network%20Training/TrainingDetails.md)
 
-> Note: The other files which are under development are commented, you can see the code in side it!
+> Note: The other files which are under development are commented, you can see the codeand files name by seeing the file it!
 
 <!--
 
