@@ -355,7 +355,7 @@ Description of question
 - ### Linear Algebra for Machine Learning and Data Science
   - `B` [Introduction to Numpy Arrays](Mathematics/IntroductionToNumpyArrays.ipynb)
   - `B` [Linear Systems as Matrices](Mathematics/LinearSystemsOnMatrices.ipynb)
-  - `B` 
+  - `B` [Introduction to the Numpy.lanalg sub-library](Mathematics/IntroductionToNumpy.linalgSub-Library.ipynb)
 
 !! Most of the notes credit of this note goes to the **Great Teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
 
