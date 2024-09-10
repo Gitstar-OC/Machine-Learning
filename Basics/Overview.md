@@ -18,4 +18,4 @@ Beyond consumer applications that you might use, AI is also rapidly making its w
 
 Or in healthcare, is starting to make its way into hospitals to help doctors make accurate diagnosis. Or recently at Landing AI have been doing a lot of work, putting computer vision into factories to help inspect if something coming off the assembly line has any defects. 
 
-### That's machine learning, it's the science of getting computers to learn without being explicitly programmed.
+**That's machine learning, it's the science of getting computers to learn without being explicitly programmed.
