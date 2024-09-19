@@ -364,6 +364,16 @@ Description of question
   - `B` [Interpreting Eigenvalues and Eigenvectors]()
   - `I` [Application of Eigenvalues and Eigenvectors: Webpage navigation model and PCA]()
 
+- ### Calculus for Machine Learning and Data Science
+- `B` [Differentiation in Python: Symbolic, Numerical and Automatic]()
+- `B` [Optimizing Functions of One Variable: Cost Minimization]()
+- `B` [Optimization Using Gradient Descent in One Variable]()
+- `B` [Optimization Using Gradient Descent in Two Variables]()
+- `I` [Optimization Using Gradient Descent: Linear Regression]()
+- `B` [Regression with Perceptron]()
+- `B` [Classification with Perceptron]()
+- `B` [Optimization Using Newton's Method]()
+
 !! Most of the notes credit of this note goes to the **Great Teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
 
   Welldone Champ
