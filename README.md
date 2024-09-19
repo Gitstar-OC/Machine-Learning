@@ -356,6 +356,13 @@ Description of question
   - `B` [Introduction to Numpy Arrays](Mathematics/IntroductionToNumpyArrays.ipynb)
   - `B` [Linear Systems as Matrices](Mathematics/LinearSystemsOnMatrices.ipynb)
   - `B` [Introduction to the Numpy.lanalg sub-library](Mathematics/IntroductionToNumpy.linalgSub-Library.ipynb)
+  - `I` [Gaussian Elimination]()
+  - `B` [Vector Operations: Scalar Multiplication, Sum and Dot Product of Vectors]()
+  - `B` [Matrix Multiplication]()
+  - `B` [Linear Transformation]()
+  - `I` [Linear Transformatins and Neural Networks]() 
+  - `B` [Interpreting Eigenvalues and Eigenvectors]()
+  - `I` [Application of Eigenvalues and Eigenvectors: Webpage navigation model and PCA]()
 
 !! Most of the notes credit of this note goes to the **Great Teacher** _[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)_ and his great education websites like _[Deep Learning AI](https://www.deeplearning.ai/)_ and _[Coursera](https://www.coursera.org/)_
 
