@@ -363,3 +363,6 @@ Description of question
  # Give it a ⭐ if you liked this!
  <!--
 -->
+
+ deleted:    Advanced Learning Algorithms/Tree Ensembles/WhentoHaveDecisionTrees.md
+ deleted:    Advanced Learning Algorithms/Neural Network Training/TensorFlowImplementation.md
