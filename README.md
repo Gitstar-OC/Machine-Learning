@@ -184,7 +184,7 @@ Description of question
 
 > Note: The other files which are under development are commented, you can see the codeand files name by seeing the file it!
 
-<!--
+
 
 - ### Activation Functions
 
